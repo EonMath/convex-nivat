@@ -116,6 +116,34 @@ transitive axioms of project and vendored declarations. The accepted base is
 left as additional mathematical axioms. Verification is performed locally;
 automatic GitHub Actions runs are disabled.
 
+## Official Comparator
+
+[Lean's official Comparator](https://github.com/leanprover/comparator) is
+available through [tools/comparator](tools/comparator/). It checks the convex
+Nivat theorem, its rectangular corollary and the star-configuration theorem
+against a separately compiled specification, checks permitted axioms, and
+replays the solution dependencies through the Lean kernel.
+
+After the ordinary build, run on Linux with a working systemd user session:
+
+```sh
+python3 tools/comparator/run.py
+```
+
+The runner builds hash-pinned Comparator, `lean4export` and Landrun versions
+matching Lean 4.35.0-rc3, then invokes the real sandbox. Generated tools remain
+under the ignored `.lake/` directory. See [the tool guide](tools/comparator/README.md)
+for prerequisites, trust boundaries and verification results.
+
+The local official comparator run passed all three interfaces; the
+[recorded result](tools/comparator/verification.json) includes exact input and
+tool hashes and a rejected negative control.
+
+`Challenge.lean` intentionally contains three specification placeholders and
+imports only the shared definitions. It is excluded from the default proof
+build. `Solution.lean` supplies all three proofs without placeholders and does
+not import the challenge. The original mathematical library remains unchanged.
+
 ## Source issues
 
 [SOURCE_ISSUES.md](SOURCE_ISSUES.md) records one confirmed invalid inference

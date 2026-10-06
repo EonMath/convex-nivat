@@ -1,0 +1,63 @@
+{
+  "okay": true,
+  "toolchain": "leanprover/lean4:v4.35.0-rc3",
+  "official_tool_revisions": {
+    "comparator": "fd5d5bcf14177b187f66d4502071268d877887c3",
+    "lean4export": "66f1fb4bc256072069767fce52d39480e4524869",
+    "landrun": "811cfff51ceaf3d9843708aa6d22e9b84ccac8b4"
+  },
+  "theorems": [
+    "ConvexNivatComparator.convexNivat",
+    "ConvexNivatComparator.nivatRectangles",
+    "ConvexNivatComparator.theoremT"
+  ],
+  "input_sha256": {
+    "tools/comparator/pins.json": "48d8054a45419642715c525ad68b3058629f86e248c9113030dad115728d7d96",
+    "tools/comparator/bootstrap.py": "d1a091887eb5ca65eccc26f00605b454eb3a8ce2db357cdf56d144aa512f823e",
+    "tools/comparator/run.py": "78be78ee07114b89f8938c3ac3a7d5d5abe5a69662b4327c1f84cbbb368b20f8",
+    "tools/comparator/comparator.json": "633fe568fe334e617a77510bf84c12ebbc5f154f1d9c03cf9188f54d326ad135",
+    "tools/comparator/Challenge.lean": "c3f41c95b81d2d8ccbd33b76efdca94cd641e4f0631cafe68205609c0d647218",
+    "tools/comparator/Solution.lean": "c8c277736dfd163634e8adda580fdc20ebceeadbc33c781d0e4c926809e38cac",
+    "tools/comparator/licenses/comparator.txt": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "tools/comparator/licenses/lean4export.txt": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "tools/comparator/licenses/landrun.txt": "f613c30920743111429f7c1cb801f49ccaafe8ae3319b3b0a5f8aca94e5fc082",
+    "lakefile.toml": "8f47efaf0bac68eaafb61ce1e6cc6de08178780eb8e642f8ae489c98e3417b20",
+    "lean-toolchain": "bc84812c94489d1e3e191baa1dc10d5eb684382d7fe9d2a5ab085e72c1c67e47",
+    "lake-manifest.json": "8bffb1dd6a2d5954a9d16cb9648d4e8211bfb8b8fb3a96e91237dbf393174fb9",
+    ".gitignore": "1e7ef3cff3e66153473be001d86396bd0a20ff597efcb791b2e8808879c3ff99"
+  },
+  "tool_binary_sha256": {
+    "comparator": "9c52a28d59016a453d9d5da3c1fe09240f6fc4946863bc60849c9b361310c499",
+    "lean4export": "71043e7c3dce6a88b3472c0471dd5209af086919fcadc0478a0e134a1457bf0e",
+    "landrun": "e3854d37299a602349d087dfa4fa640f6f496f8fb1c5d1f9eb9f82c96e41a107"
+  },
+  "verification": {
+    "environment": "isolated exact final source/config clone; accepted local mathematical objects reused only in scratch",
+    "command": "python3 tools/comparator/run.py --cache ../repro-cache",
+    "published_default_command": "python3 tools/comparator/run.py",
+    "exit_code": 0,
+    "actual_landrun": true,
+    "systemd_restrict_address_families": "~AF_UNIX",
+    "kernel": "Lean default",
+    "permitted_axioms": [
+      "propext",
+      "Quot.sound",
+      "Classical.choice"
+    ],
+    "solution_placeholders": 0,
+    "protected_headers": 3,
+    "challenge_specification_placeholders": 3,
+    "challenge_in_default_target": false
+  },
+  "original_mathematical_files_unchanged": 449,
+  "baseline_files_unchanged": 451,
+  "negative_control": {
+    "fixture": "official simple_mismatch",
+    "expected_exit_code": 1,
+    "observed_exit_code": 1,
+    "rejection": "Challenge and solution constant kind don't match: comm",
+    "log_sha256": "14562b1c0a67b61d44f268d97a9b27d2f7be84e1f8ff4fec15d6a48963151000"
+  },
+  "positive_log_sha256": "7055a47bf5f5c56d9291e27733e92ba397a6cb11bfb31e2324bff247ba44264f",
+  "remote_ci": "disabled"
+}

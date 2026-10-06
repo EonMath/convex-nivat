@@ -77,3 +77,17 @@ The main supplied mathematical source is the Apex Intelligence manuscript of
 Kari-Szabados, Colle, Szabados and Morse-Hedlund are mathematical source
 attributions, not licenses for the copied Lean files. The final source
 contracts are proved rather than retained as unproved external assumptions.
+
+## Optional verification tools
+
+[tools/comparator/](tools/comparator/) downloads and builds the official
+[Comparator](https://github.com/leanprover/comparator),
+[lean4export](https://github.com/leanprover/lean4export), and
+[Landrun](https://github.com/Zouuup/landrun) for local checks. Their exact source
+revisions and archive hashes are in [pins.json](tools/comparator/pins.json).
+Copies of their upstream license texts are in
+[tools/comparator/licenses/](tools/comparator/licenses/); downloaded source
+trees retain those licenses as well. On Linux x86-64 the bootstrap also obtains
+the hash-pinned Go toolchain recorded in that file, retaining its license in
+the extracted distribution. These tools are optional verification dependencies
+and do not supply mathematical assumptions to the proof library.
