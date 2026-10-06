@@ -1,7 +1,5 @@
 # Convex Nivat formalization
 
-[![Lean](https://github.com/EonMath/convex-nivat/actions/workflows/lean.yml/badge.svg)](https://github.com/EonMath/convex-nivat/actions/workflows/lean.yml)
-
 A Lean 4 formalization of *The Convex Nivat Conjecture: A Complexity Lower Bound
 for Star Configurations, and a Reduction from Low Convex Complexity to Star
 Configurations* (Apex Intelligence, 12 September 2026).
@@ -115,8 +113,8 @@ warnings, not proof holes.
 `MainTheorem` is the default Lake target. The verification tool checks the
 transitive axioms of project and vendored declarations. The accepted base is
 `propext`, `Classical.choice` and `Quot.sound`; cited results are proved, not
-left as additional mathematical axioms. GitHub Actions runs the same build and
-verification commands.
+left as additional mathematical axioms. Verification is performed locally;
+automatic GitHub Actions runs are disabled.
 
 ## Source issues
 
