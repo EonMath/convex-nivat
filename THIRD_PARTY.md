@@ -12,13 +12,13 @@ Source: [boonsuan/nivat](https://github.com/boonsuan/nivat), revision
 The following seven files were transplanted byte-for-byte, retaining their
 `Nivat` module names within the release category directories:
 
-- [Basic.lean](Foundations/Nivat/Core/Basic.lean)
-- [Patterns.lean](Foundations/Nivat/Core/Patterns.lean)
-- [BoundedDifferences.lean](Foundations/Nivat/Core/BoundedDifferences.lean)
-- [Action.lean](Algebra/Nivat/Algebra/Action.lean)
-- [LowComplexity.lean](Algebra/Nivat/Algebra/LowComplexity.lean)
-- [RationalScaling.lean](Algebra/Nivat/Algebra/RationalScaling.lean)
-- [ProductDifferences.lean](Algebra/Nivat/Algebra/ProductDifferences.lean)
+- [Basic.lean](convex-nivat/Foundations/Nivat/Core/Basic.lean)
+- [Patterns.lean](convex-nivat/Foundations/Nivat/Core/Patterns.lean)
+- [BoundedDifferences.lean](convex-nivat/Foundations/Nivat/Core/BoundedDifferences.lean)
+- [Action.lean](convex-nivat/Algebra/Nivat/Algebra/Action.lean)
+- [LowComplexity.lean](convex-nivat/Algebra/Nivat/Algebra/LowComplexity.lean)
+- [RationalScaling.lean](convex-nivat/Algebra/Nivat/Algebra/RationalScaling.lean)
+- [ProductDifferences.lean](convex-nivat/Algebra/Nivat/Algebra/ProductDifferences.lean)
 
 They provide configuration/pattern infrastructure, Laurent actions, rational
 annihilators, coefficient clearing and product-of-differences results. The
@@ -38,7 +38,7 @@ revision
 
 The historical transplant comprised **219 mathematical modules under
 `NivatTrial/` plus the unchanged `NivatTrial.lean` root module**. This reduced
-release retains the 219 mathematical modules in `vendor/nivat-trial/` and
+release retains the 219 mathematical modules in `convex-nivat/vendor/nivat-trial/` and
 omits the upstream root wrapper.
 [EXTERNAL_NIVAT_PROVENANCE.json](EXTERNAL_NIVAT_PROVENANCE.json) records the
 219 shipped files, their relative paths, individual hashes and exact upstream

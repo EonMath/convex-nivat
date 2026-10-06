@@ -24,7 +24,7 @@ convex hull. Periodicity means one nonzero period, not necessarily two
 independent periods.
 
 The declaration and its rectangular corollary are in
-[OriginalMain.lean](Reduction/ConvexNivat/OriginalMain.lean).
+[OriginalMain.lean](convex-nivat/Reduction/ConvexNivat/OriginalMain.lean).
 For an `n × k` rectangle with `n,k ≥ 1`, the condition is `Pξ(n,k) ≤ nk`.
 
 ```lean
@@ -43,7 +43,7 @@ supporting helper lemmas are counted separately from those results.
 
 - **Star configurations:** Theorem A / 7.3, `ConvexNivat.theoremT`, proves
   `Pθ(S) ≥ |S| + 1` for every nonempty finite lattice-convex window of a star
-  configuration. See [the proof](Star/ConvexNivat/MainTheorem.lean).
+  configuration. See [the proof](convex-nivat/Star/ConvexNivat/MainTheorem.lean).
 - **Algebra and spectrum:** Laurent difference operators, annihilators,
   exceptional spectra, Newton polygons and affine dimension bounds.
 - **Geometry and dynamics:** lattice convexity, zonotopes, sectors, orbit
@@ -53,7 +53,7 @@ supporting helper lemmas are counted separately from those results.
   a result used in Proposition 8.14.
 
 The final convex-Nivat proof uses the independently verified `NivatTrial`
-provider through [ExternalNivatAdapters.lean](Reduction/ExternalNivatAdapters.lean).
+provider through [ExternalNivatAdapters.lean](convex-nivat/Reduction/ExternalNivatAdapters.lean).
 The star proof and intermediate paper statements are also retained. In
 particular, the exact 8.7 minimal-counterexample contract is discharged using
 the provider's full theorem. This is an alternative proof route; the repository
@@ -61,20 +61,21 @@ does not claim to reconstruct Colle's original geometric proof.
 
 ## Source layout
 
-Files are grouped by mathematical subject. Lake preserves the existing Lean
+All mathematical code is collected under [convex-nivat/](convex-nivat/),
+with subdirectories grouped by mathematical subject. Lake preserves the existing Lean
 module names through the source-directory configuration, so declaration and
 import identities remain stable.
 
 | Directory | Contents |
 | --- | --- |
-| [Foundations/](Foundations/) | Configurations, finite patterns, lattice and period definitions. |
-| [Algebra/](Algebra/) | Laurent actions, finite differences, annihilators and decomposition. |
-| [Spectral/](Spectral/) | Fourier spectra, cyclotomic arguments, polynomial quotients and dimension bounds. |
-| [Geometry/](Geometry/) | Lattice convexity, zonotopes and polygon geometry. |
-| [Star/](Star/) | Star configurations, sector arguments, observables and Theorem A. |
-| [Dynamics/](Dynamics/) | Orbit closures, nonexpansive directions, periodicity propagation and two-component results. |
-| [Reduction/](Reduction/) | Paper reduction interfaces, external-provider adapter and the main theorem. |
-| [vendor/nivat-trial/](vendor/nivat-trial/) | Pinned independent convex-Nivat proof provider. |
+| [Foundations/](convex-nivat/Foundations/) | Configurations, finite patterns, lattice and period definitions. |
+| [Algebra/](convex-nivat/Algebra/) | Laurent actions, finite differences, annihilators and decomposition. |
+| [Spectral/](convex-nivat/Spectral/) | Fourier spectra, cyclotomic arguments, polynomial quotients and dimension bounds. |
+| [Geometry/](convex-nivat/Geometry/) | Lattice convexity, zonotopes and polygon geometry. |
+| [Star/](convex-nivat/Star/) | Star configurations, sector arguments, observables and Theorem A. |
+| [Dynamics/](convex-nivat/Dynamics/) | Orbit closures, nonexpansive directions, periodicity propagation and two-component results. |
+| [Reduction/](convex-nivat/Reduction/) | Paper reduction interfaces, external-provider adapter and the main theorem. |
+| [vendor/nivat-trial/](convex-nivat/vendor/nivat-trial/) | Pinned independent convex-Nivat proof provider. |
 
 The release omits 150 modules outside the retained source-result import
 closure, including unused Colle reconstruction routes and experimental

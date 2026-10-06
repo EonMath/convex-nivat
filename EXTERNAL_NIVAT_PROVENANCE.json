@@ -9,1533 +9,1533 @@
   "files": [
     {
       "module": "NivatTrial.Patterns",
-      "path": "vendor/nivat-trial/NivatTrial/Patterns.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/Patterns.lean",
       "upstream_path": "NivatTrial/Patterns.lean",
       "sha256": "a052faa49c4f896f09efb93f4913fc6fde155475ba9d9f539b6346c01448dca3",
       "bytes": 3628
     },
     {
       "module": "NivatTrial.Dynamics",
-      "path": "vendor/nivat-trial/NivatTrial/Dynamics.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/Dynamics.lean",
       "upstream_path": "NivatTrial/Dynamics.lean",
       "sha256": "ea63ac471ac39ada15843df5cc911f3786b077da9dc3f59014509ae379780454",
       "bytes": 37520
     },
     {
       "module": "NivatTrial.PeriodicSubshift",
-      "path": "vendor/nivat-trial/NivatTrial/PeriodicSubshift.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/PeriodicSubshift.lean",
       "upstream_path": "NivatTrial/PeriodicSubshift.lean",
       "sha256": "79b6d202226f7960373f6fccdcc7a542838d9e28e7bd7e09dbbe73f16d5f6d01",
       "bytes": 9576
     },
     {
       "module": "NivatTrial.Geometry",
-      "path": "vendor/nivat-trial/NivatTrial/Geometry.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/Geometry.lean",
       "upstream_path": "NivatTrial/Geometry.lean",
       "sha256": "934ae64588fb4b2f8c24350884f3c850025c2cd567a7d3e5fb8ed55677d8743b",
       "bytes": 3894
     },
     {
       "module": "NivatTrial.Periodicity",
-      "path": "vendor/nivat-trial/NivatTrial/Periodicity.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/Periodicity.lean",
       "upstream_path": "NivatTrial/Periodicity.lean",
       "sha256": "6bb1c2faa83e1560d0c1abec7016fbc90f83c21e90fa25f8a80e388e363aea3f",
       "bytes": 36910
     },
     {
       "module": "NivatTrial.Algebra",
-      "path": "vendor/nivat-trial/NivatTrial/Algebra.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/Algebra.lean",
       "upstream_path": "NivatTrial/Algebra.lean",
       "sha256": "825f8028bab5b6fd1a2414ec78d83f725155b6dd0f07278a9d60c9511bc72241",
       "bytes": 4814
     },
     {
       "module": "NivatTrial.OneSided",
-      "path": "vendor/nivat-trial/NivatTrial/OneSided.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/OneSided.lean",
       "upstream_path": "NivatTrial/OneSided.lean",
       "sha256": "80a1b043eb918083e36345e76091d46cd9399b5175985a6ec7b7d24c9574e5cd",
       "bytes": 8982
     },
     {
       "module": "NivatTrial.Divisibility",
-      "path": "vendor/nivat-trial/NivatTrial/Divisibility.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/Divisibility.lean",
       "upstream_path": "NivatTrial/Divisibility.lean",
       "sha256": "549e0e93a10e1013a19962e124fa270c917a1bfc8b7fdfb19fd81b675be1168d",
       "bytes": 47823
     },
     {
       "module": "NivatTrial.HalfPlaneLimit",
-      "path": "vendor/nivat-trial/NivatTrial/HalfPlaneLimit.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/HalfPlaneLimit.lean",
       "upstream_path": "NivatTrial/HalfPlaneLimit.lean",
       "sha256": "48c7e6fc28702d1c7a91f6e9ddedce1acb2c1ce4e39ecf769f428222163227a4",
       "bytes": 14243
     },
     {
       "module": "NivatTrial.PeriodicDifference",
-      "path": "vendor/nivat-trial/NivatTrial/PeriodicDifference.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/PeriodicDifference.lean",
       "upstream_path": "NivatTrial/PeriodicDifference.lean",
       "sha256": "ab4eb5e9c647d5c7e2b639943e1fb16df29ce09dc15904419fa2b35f59327ca0",
       "bytes": 5634
     },
     {
       "module": "NivatTrial.MorseHedlund",
-      "path": "vendor/nivat-trial/NivatTrial/MorseHedlund.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/MorseHedlund.lean",
       "upstream_path": "NivatTrial/MorseHedlund.lean",
       "sha256": "495d6f4e2ce6aa94cb089b786882ef5be5fbbe655abad21e250bf72e85423a21",
       "bytes": 20416
     },
     {
       "module": "NivatTrial.Zonotope",
-      "path": "vendor/nivat-trial/NivatTrial/Zonotope.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/Zonotope.lean",
       "upstream_path": "NivatTrial/Zonotope.lean",
       "sha256": "36104539baf8d0b8144ce9c9b01ae5847a93683aee16b9daf9ad122b4976635e",
       "bytes": 11092
     },
     {
       "module": "NivatTrial.LatticePolygon",
-      "path": "vendor/nivat-trial/NivatTrial/LatticePolygon.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/LatticePolygon.lean",
       "upstream_path": "NivatTrial/LatticePolygon.lean",
       "sha256": "cd6ac3e7ef56ea6adfb943b46e0e159334bd8bcf58d760414a3ccbdd0383ad30",
       "bytes": 4998
     },
     {
       "module": "NivatTrial.AmbiguityPropagation",
-      "path": "vendor/nivat-trial/NivatTrial/AmbiguityPropagation.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/AmbiguityPropagation.lean",
       "upstream_path": "NivatTrial/AmbiguityPropagation.lean",
       "sha256": "09958bd6055742ea1dbb9e59d05b04d9584d3ddf82b3b32463ea4c5ddfebe393",
       "bytes": 9255
     },
     {
       "module": "NivatTrial.RowDetermination",
-      "path": "vendor/nivat-trial/NivatTrial/RowDetermination.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/RowDetermination.lean",
       "upstream_path": "NivatTrial/RowDetermination.lean",
       "sha256": "ebc4f66bd1dca6a8eb1034f28dafba492fcc78d4341df3541829110ce2fe887f",
       "bytes": 11226
     },
     {
       "module": "NivatTrial.BalancedWindows",
-      "path": "vendor/nivat-trial/NivatTrial/BalancedWindows.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/BalancedWindows.lean",
       "upstream_path": "NivatTrial/BalancedWindows.lean",
       "sha256": "7f335b263e3e401d324fd4bd21f3a82fcbaa603f26c976ad794e41abd1f9f984",
       "bytes": 15442
     },
     {
       "module": "NivatTrial.LatticeCoordinates",
-      "path": "vendor/nivat-trial/NivatTrial/LatticeCoordinates.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/LatticeCoordinates.lean",
       "upstream_path": "NivatTrial/LatticeCoordinates.lean",
       "sha256": "65a6e8361ec0e3a82eb1e2a5435ea8a85813f9e656c22d7225ea6afb2072b10b",
       "bytes": 5646
     },
     {
       "module": "NivatTrial.BalancedTransforms",
-      "path": "vendor/nivat-trial/NivatTrial/BalancedTransforms.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/BalancedTransforms.lean",
       "upstream_path": "NivatTrial/BalancedTransforms.lean",
       "sha256": "b28fff000fd4741908503ce89b5e287d9aaf700fa1a19bf41ecad020c87d3faf",
       "bytes": 6383
     },
     {
       "module": "NivatTrial.BalancedPropagation",
-      "path": "vendor/nivat-trial/NivatTrial/BalancedPropagation.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/BalancedPropagation.lean",
       "upstream_path": "NivatTrial/BalancedPropagation.lean",
       "sha256": "02911dc8b78b9138a90abd84c2d7ede891f51c5f5f9acc575da4bcb587f20f10",
       "bytes": 14516
     },
     {
       "module": "NivatTrial.HorizontalCoordinates",
-      "path": "vendor/nivat-trial/NivatTrial/HorizontalCoordinates.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/HorizontalCoordinates.lean",
       "upstream_path": "NivatTrial/HorizontalCoordinates.lean",
       "sha256": "ed3d6a6e405f67b7933fb32e8b9a10641b42dff052de43788748577ec00e5563",
       "bytes": 1843
     },
     {
       "module": "NivatTrial.TwoComponent",
-      "path": "vendor/nivat-trial/NivatTrial/TwoComponent.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/TwoComponent.lean",
       "upstream_path": "NivatTrial/TwoComponent.lean",
       "sha256": "b1282dd69988be3c287e185220bb8b05aeaf66a95e1950892a43ad593d974e07",
       "bytes": 11938
     },
     {
       "module": "NivatTrial.TwoComponentLimits",
-      "path": "vendor/nivat-trial/NivatTrial/TwoComponentLimits.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/TwoComponentLimits.lean",
       "upstream_path": "NivatTrial/TwoComponentLimits.lean",
       "sha256": "bf9dae29231ec6c7ae014185b66e3c720fb758a0767f73712fe162366222499f",
       "bytes": 7355
     },
     {
       "module": "NivatTrial.AvailableDirections",
-      "path": "vendor/nivat-trial/NivatTrial/AvailableDirections.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/AvailableDirections.lean",
       "upstream_path": "NivatTrial/AvailableDirections.lean",
       "sha256": "c68c4de46794750951d6c4f26c3feb06e2146a72726765fdca679a0f24db48d4",
       "bytes": 4591
     },
     {
       "module": "NivatTrial.OneSidedRecurrence",
-      "path": "vendor/nivat-trial/NivatTrial/OneSidedRecurrence.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/OneSidedRecurrence.lean",
       "upstream_path": "NivatTrial/OneSidedRecurrence.lean",
       "sha256": "f5c2fa6f510575ab4155b61bac85d38972e3fd7d778910d2d90d0112cfb3a702",
       "bytes": 16539
     },
     {
       "module": "NivatTrial.CoefficientField",
-      "path": "vendor/nivat-trial/NivatTrial/CoefficientField.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/CoefficientField.lean",
       "upstream_path": "NivatTrial/CoefficientField.lean",
       "sha256": "f768f8f55b768a8fd16b28429a40c0ba2899a9b1e9aadd0d5c2fe6900b851b9d",
       "bytes": 2689
     },
     {
       "module": "NivatTrial.QuotientFactors",
-      "path": "vendor/nivat-trial/NivatTrial/QuotientFactors.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/QuotientFactors.lean",
       "upstream_path": "NivatTrial/QuotientFactors.lean",
       "sha256": "3274cfb59f361edc1e0694d825f28e7489d36e715c2647c7afd8010b737a0727",
       "bytes": 9125
     },
     {
       "module": "NivatTrial.QuotientIdeals",
-      "path": "vendor/nivat-trial/NivatTrial/QuotientIdeals.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/QuotientIdeals.lean",
       "upstream_path": "NivatTrial/QuotientIdeals.lean",
       "sha256": "47ca9c94bf4e7861c224cbfe3883f80efc2171e22c76c11512156b351ebae02e",
       "bytes": 5077
     },
     {
       "module": "NivatTrial.QuotientSupport",
-      "path": "vendor/nivat-trial/NivatTrial/QuotientSupport.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/QuotientSupport.lean",
       "upstream_path": "NivatTrial/QuotientSupport.lean",
       "sha256": "11b8de864e84a5ff860ae4611ade6c85decb8ca0436afa1a846d81a5ec0a86a1",
       "bytes": 4998
     },
     {
       "module": "NivatTrial.SupportGeometry",
-      "path": "vendor/nivat-trial/NivatTrial/SupportGeometry.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/SupportGeometry.lean",
       "upstream_path": "NivatTrial/SupportGeometry.lean",
       "sha256": "dd3669c257d2aeae9f51db73874e44fb5d46a2c5e6f6dfffaf1de320e072d338",
       "bytes": 4784
     },
     {
       "module": "NivatTrial.RegionGeometry",
-      "path": "vendor/nivat-trial/NivatTrial/RegionGeometry.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/RegionGeometry.lean",
       "upstream_path": "NivatTrial/RegionGeometry.lean",
       "sha256": "e6b09992e9ddd60a2ed43e99b44985ac62572c6123ef513d749e66e327f34a20",
       "bytes": 7485
     },
     {
       "module": "NivatTrial.IncrementSupport",
-      "path": "vendor/nivat-trial/NivatTrial/IncrementSupport.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/IncrementSupport.lean",
       "upstream_path": "NivatTrial/IncrementSupport.lean",
       "sha256": "ba168d8474c1b672d02d5846cbf8d0e81cd1977804b8ffa4092365b93ad28d67",
       "bytes": 3972
     },
     {
       "module": "NivatTrial.FirstHalfPlane",
-      "path": "vendor/nivat-trial/NivatTrial/FirstHalfPlane.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/FirstHalfPlane.lean",
       "upstream_path": "NivatTrial/FirstHalfPlane.lean",
       "sha256": "cf91491e8b376d435b6b93debf6509a9ea415ecc71af6155aad53cede3f8dfdc",
       "bytes": 5677
     },
     {
       "module": "NivatTrial.SecondHalfPlane",
-      "path": "vendor/nivat-trial/NivatTrial/SecondHalfPlane.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/SecondHalfPlane.lean",
       "upstream_path": "NivatTrial/SecondHalfPlane.lean",
       "sha256": "21e346f436aaea9f8ae5381cd048c76acbecee02a85e3e9f4f8e895143cf4286",
       "bytes": 9055
     },
     {
       "module": "NivatTrial.ReducedDecomposition",
-      "path": "vendor/nivat-trial/NivatTrial/ReducedDecomposition.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ReducedDecomposition.lean",
       "upstream_path": "NivatTrial/ReducedDecomposition.lean",
       "sha256": "244d9503fcd07b7dc80a8b4b4a0e47ec886fb319946eb9aa65052e87afda6fdc",
       "bytes": 7246
     },
     {
       "module": "NivatTrial.Differences",
-      "path": "vendor/nivat-trial/NivatTrial/Differences.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/Differences.lean",
       "upstream_path": "NivatTrial/Differences.lean",
       "sha256": "b2b8cecb6cd2322ff3be731bfedb531953f894d667c81225c07dd20431cf3666",
       "bytes": 3814
     },
     {
       "module": "NivatTrial.FirstCase",
-      "path": "vendor/nivat-trial/NivatTrial/FirstCase.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/FirstCase.lean",
       "upstream_path": "NivatTrial/FirstCase.lean",
       "sha256": "d23b76641a5d05bd5e6130c4ef4dee2c42f39db9a5f683e7a027684ee4d7abf9",
       "bytes": 2955
     },
     {
       "module": "NivatTrial.Strips",
-      "path": "vendor/nivat-trial/NivatTrial/Strips.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/Strips.lean",
       "upstream_path": "NivatTrial/Strips.lean",
       "sha256": "0a38970ad62f2fc99380a94e8bd5d156f4c6e70d6fface8a345ec25cb5b3ec30",
       "bytes": 9478
     },
     {
       "module": "NivatTrial.Isolation",
-      "path": "vendor/nivat-trial/NivatTrial/Isolation.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/Isolation.lean",
       "upstream_path": "NivatTrial/Isolation.lean",
       "sha256": "d1112ee42210b35b43552af70edba65ece966664530ecf6ff6197534f4fb57d4",
       "bytes": 8099
     },
     {
       "module": "NivatTrial.HalfPlane",
-      "path": "vendor/nivat-trial/NivatTrial/HalfPlane.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/HalfPlane.lean",
       "upstream_path": "NivatTrial/HalfPlane.lean",
       "sha256": "17eca116b4a3e70aff003a06e4e5b6a846e4200ce4fb40e2f48be796104b382b",
       "bytes": 5651
     },
     {
       "module": "NivatTrial.Quadratic",
-      "path": "vendor/nivat-trial/NivatTrial/Quadratic.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/Quadratic.lean",
       "upstream_path": "NivatTrial/Quadratic.lean",
       "sha256": "4922689e7869a3647b4b63443a58080daaf7ab5e6cbe3eb0c5431d87ee3acab5",
       "bytes": 8263
     },
     {
       "module": "NivatTrial.Witness",
-      "path": "vendor/nivat-trial/NivatTrial/Witness.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/Witness.lean",
       "upstream_path": "NivatTrial/Witness.lean",
       "sha256": "a5e05b583f70e3966a08b3da4b1409707bccb47ee184f4caf5ce8c238c3958f2",
       "bytes": 5624
     },
     {
       "module": "NivatTrial.Components",
-      "path": "vendor/nivat-trial/NivatTrial/Components.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/Components.lean",
       "upstream_path": "NivatTrial/Components.lean",
       "sha256": "4856a0fe88e3c8dbe5d8c5abc3a05c147ab1bb1ac869737e9afea67230ea65f0",
       "bytes": 8705
     },
     {
       "module": "NivatTrial.BiRecursion",
-      "path": "vendor/nivat-trial/NivatTrial/BiRecursion.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/BiRecursion.lean",
       "upstream_path": "NivatTrial/BiRecursion.lean",
       "sha256": "8a5f1ef61056c2bc8b1e106775920be53e8b33957ad5f56ef3af53e4ee7aaec1",
       "bytes": 4816
     },
     {
       "module": "NivatTrial.Dichotomy",
-      "path": "vendor/nivat-trial/NivatTrial/Dichotomy.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/Dichotomy.lean",
       "upstream_path": "NivatTrial/Dichotomy.lean",
       "sha256": "656f251d5e51e572713795f1d6577b722e4f218a9cea27ad02212e20b3086e41",
       "bytes": 4205
     },
     {
       "module": "NivatTrial.Star",
-      "path": "vendor/nivat-trial/NivatTrial/Star.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/Star.lean",
       "upstream_path": "NivatTrial/Star.lean",
       "sha256": "607622fc41f57d7082823f990c6281490ceb9154cc966c9d4289a986e7bb52c1",
       "bytes": 5429
     },
     {
       "module": "NivatTrial.StarNormalization",
-      "path": "vendor/nivat-trial/NivatTrial/StarNormalization.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/StarNormalization.lean",
       "upstream_path": "NivatTrial/StarNormalization.lean",
       "sha256": "2f29cdbfae64caa226d8a2b3d4fe424525abee8cd32609a2ea8f5680f70e13d7",
       "bytes": 6247
     },
     {
       "module": "NivatTrial.Spectral",
-      "path": "vendor/nivat-trial/NivatTrial/Spectral.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/Spectral.lean",
       "upstream_path": "NivatTrial/Spectral.lean",
       "sha256": "e19ebfb25577627a631fe78ffbfac475ad706180c00e93859d002678b2456194",
       "bytes": 29461
     },
     {
       "module": "NivatTrial.GlobalSpectrum",
-      "path": "vendor/nivat-trial/NivatTrial/GlobalSpectrum.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/GlobalSpectrum.lean",
       "upstream_path": "NivatTrial/GlobalSpectrum.lean",
       "sha256": "01cddd2c2cfe48b7dc0b701e4732a5ec741e7f75b41c964a279413030491e6ab",
       "bytes": 13591
     },
     {
       "module": "NivatTrial.ConvexSupport",
-      "path": "vendor/nivat-trial/NivatTrial/ConvexSupport.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ConvexSupport.lean",
       "upstream_path": "NivatTrial/ConvexSupport.lean",
       "sha256": "623ff6d94e76a070daa396c6a50afb5ce93f50d043489afefc7ff47abaefea10",
       "bytes": 8050
     },
     {
       "module": "NivatTrial.SpectralGeometry",
-      "path": "vendor/nivat-trial/NivatTrial/SpectralGeometry.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/SpectralGeometry.lean",
       "upstream_path": "NivatTrial/SpectralGeometry.lean",
       "sha256": "eeaaeef0e6511f73ce84f88e6e69b1a964e8cc83e8d89961310cbb1df7c2fa6b",
       "bytes": 2066
     },
     {
       "module": "NivatTrial.Background",
-      "path": "vendor/nivat-trial/NivatTrial/Background.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/Background.lean",
       "upstream_path": "NivatTrial/Background.lean",
       "sha256": "cefe518d5651bc5bd134020d721984411f4bc6b9c03d4c1643a764893c70ae4c",
       "bytes": 3264
     },
     {
       "module": "NivatTrial.SectorBackground",
-      "path": "vendor/nivat-trial/NivatTrial/SectorBackground.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/SectorBackground.lean",
       "upstream_path": "NivatTrial/SectorBackground.lean",
       "sha256": "d420a262a1989732a81d831407487d8260689b17f2d290f1083b1375a0d6f14a",
       "bytes": 18320
     },
     {
       "module": "NivatTrial.StarRecurrence",
-      "path": "vendor/nivat-trial/NivatTrial/StarRecurrence.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/StarRecurrence.lean",
       "upstream_path": "NivatTrial/StarRecurrence.lean",
       "sha256": "8ccddc034065b3e7958ee54ce7b0254e669527787ec22d80eeb4b12d574c14ac",
       "bytes": 2697
     },
     {
       "module": "NivatTrial.AffineBudget",
-      "path": "vendor/nivat-trial/NivatTrial/AffineBudget.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/AffineBudget.lean",
       "upstream_path": "NivatTrial/AffineBudget.lean",
       "sha256": "821f60171a17887c92dac0fa4e019a9f1fae73fd7e516e288e5db267b32396f1",
       "bytes": 8471
     },
     {
       "module": "NivatTrial.StarWindow",
-      "path": "vendor/nivat-trial/NivatTrial/StarWindow.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/StarWindow.lean",
       "upstream_path": "NivatTrial/StarWindow.lean",
       "sha256": "7d933567d6265079d50a7747882e79194d38f63d6ddfed786eafc6bf67bb5534",
       "bytes": 2919
     },
     {
       "module": "NivatTrial.QuotientLinear",
-      "path": "vendor/nivat-trial/NivatTrial/QuotientLinear.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/QuotientLinear.lean",
       "upstream_path": "NivatTrial/QuotientLinear.lean",
       "sha256": "149a16aad028e323fb3e23e4639354c29abfc6c8459336df7c58827c324fbd6f",
       "bytes": 9281
     },
     {
       "module": "NivatTrial.QuotientSpanning",
-      "path": "vendor/nivat-trial/NivatTrial/QuotientSpanning.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/QuotientSpanning.lean",
       "upstream_path": "NivatTrial/QuotientSpanning.lean",
       "sha256": "ab8f0501c7740d11a18af5f618525b362303f861aecf3e09bb128baa2e6a5302",
       "bytes": 2272
     },
     {
       "module": "NivatTrial.WitnessTransform",
-      "path": "vendor/nivat-trial/NivatTrial/WitnessTransform.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/WitnessTransform.lean",
       "upstream_path": "NivatTrial/WitnessTransform.lean",
       "sha256": "4d8e31bfb1d660b459dd58f1b6ce80eb8f6b4db02f65e155548c17b3cf543398",
       "bytes": 7690
     },
     {
       "module": "NivatTrial.QuotientRelations",
-      "path": "vendor/nivat-trial/NivatTrial/QuotientRelations.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/QuotientRelations.lean",
       "upstream_path": "NivatTrial/QuotientRelations.lean",
       "sha256": "06165f76778b7f26f087be2d57c196a3c613b028244600181aff266325a1e675",
       "bytes": 2215
     },
     {
       "module": "NivatTrial.Confinement",
-      "path": "vendor/nivat-trial/NivatTrial/Confinement.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/Confinement.lean",
       "upstream_path": "NivatTrial/Confinement.lean",
       "sha256": "b6ffa5d7296a5c330c8d3765f83e0ebf41808b581c3b21f93be4ddba78da21be",
       "bytes": 8120
     },
     {
       "module": "NivatTrial.TheoremA",
-      "path": "vendor/nivat-trial/NivatTrial/TheoremA.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/TheoremA.lean",
       "upstream_path": "NivatTrial/TheoremA.lean",
       "sha256": "0bf3b9020e044da054318e4c0b1fb99bcccd70049c1c01dd09a75409183c8e51",
       "bytes": 3715
     },
     {
       "module": "NivatTrial.RegionalReduction",
-      "path": "vendor/nivat-trial/NivatTrial/RegionalReduction.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/RegionalReduction.lean",
       "upstream_path": "NivatTrial/RegionalReduction.lean",
       "sha256": "af77b72d94f680a1f78f2dfd1e65c848fac532dc602686abf4c8351d26ad8a00",
       "bytes": 2585
     },
     {
       "module": "NivatTrial.IntegerIntegration",
-      "path": "vendor/nivat-trial/NivatTrial/IntegerIntegration.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/IntegerIntegration.lean",
       "upstream_path": "NivatTrial/IntegerIntegration.lean",
       "sha256": "dfe4be12d6d053799601e97c16314c71baa413e03061b43155add4f52740fac6",
       "bytes": 5567
     },
     {
       "module": "NivatTrial.IntegerDecomposition",
-      "path": "vendor/nivat-trial/NivatTrial/IntegerDecomposition.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/IntegerDecomposition.lean",
       "upstream_path": "NivatTrial/IntegerDecomposition.lean",
       "sha256": "eed5e2474f6d245989d41ea186e3eab15cd264fec6bdfd76cbd1c1593e4f6d6a",
       "bytes": 5181
     },
     {
       "module": "NivatTrial.LaurentAction",
-      "path": "vendor/nivat-trial/NivatTrial/LaurentAction.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/LaurentAction.lean",
       "upstream_path": "NivatTrial/LaurentAction.lean",
       "sha256": "2854a996d76a1b896d33cd35ae15300c1367f1d91e6d9b73b3a6d291f13eb85f",
       "bytes": 3889
     },
     {
       "module": "NivatTrial.LaurentDilation",
-      "path": "vendor/nivat-trial/NivatTrial/LaurentDilation.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/LaurentDilation.lean",
       "upstream_path": "NivatTrial/LaurentDilation.lean",
       "sha256": "9f9341ca4b7461468e1ccdaaef69d1cb99c82e8ee90c1ba9d360745e67d30c9c",
       "bytes": 4319
     },
     {
       "module": "NivatTrial.AnnihilatorDilation",
-      "path": "vendor/nivat-trial/NivatTrial/AnnihilatorDilation.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/AnnihilatorDilation.lean",
       "upstream_path": "NivatTrial/AnnihilatorDilation.lean",
       "sha256": "411444dee8bb07ab398dfac492a08b6a9530f0376bb417199b2a247314806a28",
       "bytes": 3885
     },
     {
       "module": "NivatTrial.LaurentVandermonde",
-      "path": "vendor/nivat-trial/NivatTrial/LaurentVandermonde.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/LaurentVandermonde.lean",
       "upstream_path": "NivatTrial/LaurentVandermonde.lean",
       "sha256": "b01ab3919e211fdfafcd95e8dc3a9bb2c62c323facb97e343f64d89d6d87a686",
       "bytes": 7970
     },
     {
       "module": "NivatTrial.IntegerPowerReduction",
-      "path": "vendor/nivat-trial/NivatTrial/IntegerPowerReduction.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/IntegerPowerReduction.lean",
       "upstream_path": "NivatTrial/IntegerPowerReduction.lean",
       "sha256": "21822d0ec844dfa9263fd646ba73b4d678930298f0907ba8fb303d58eea813ad",
       "bytes": 5515
     },
     {
       "module": "NivatTrial.ParallelCollapse",
-      "path": "vendor/nivat-trial/NivatTrial/ParallelCollapse.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ParallelCollapse.lean",
       "upstream_path": "NivatTrial/ParallelCollapse.lean",
       "sha256": "0a957cfc686c9d5811d9e2d286d62ad20d3e6bb16c322654f9104d4f5ebfc024",
       "bytes": 5365
     },
     {
       "module": "NivatTrial.BinomialDirections",
-      "path": "vendor/nivat-trial/NivatTrial/BinomialDirections.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/BinomialDirections.lean",
       "upstream_path": "NivatTrial/BinomialDirections.lean",
       "sha256": "c6f1abeba2b5f2059fd8e458cade19cd4fefae4a78c9d632d649422ec53d6c37",
       "bytes": 7168
     },
     {
       "module": "NivatTrial.IntegerAnnihilator",
-      "path": "vendor/nivat-trial/NivatTrial/IntegerAnnihilator.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/IntegerAnnihilator.lean",
       "upstream_path": "NivatTrial/IntegerAnnihilator.lean",
       "sha256": "bc891aaf1fb5b3d10861cabfbb16f413f2bb27887afb9f74bc40998337d88e28",
       "bytes": 5164
     },
     {
       "module": "NivatTrial.KariSzabados",
-      "path": "vendor/nivat-trial/NivatTrial/KariSzabados.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/KariSzabados.lean",
       "upstream_path": "NivatTrial/KariSzabados.lean",
       "sha256": "fa17e5da8cc0554ca8ea9909dd7deafade91829d80b5be1625e0fb16d1d58b0d",
       "bytes": 4217
     },
     {
       "module": "NivatTrial.MinimalHull",
-      "path": "vendor/nivat-trial/NivatTrial/MinimalHull.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/MinimalHull.lean",
       "upstream_path": "NivatTrial/MinimalHull.lean",
       "sha256": "0aac7489396eea8ee5be0b0d650059797353fd54fdd88a9adbe37c62dd1ba4ed",
       "bytes": 4124
     },
     {
       "module": "NivatTrial.Nonexpansive",
-      "path": "vendor/nivat-trial/NivatTrial/Nonexpansive.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/Nonexpansive.lean",
       "upstream_path": "NivatTrial/Nonexpansive.lean",
       "sha256": "574a4e83fd3659e7735dbf135f0d46b0edae6896ce926c284db29c5130c70dfc",
       "bytes": 5537
     },
     {
       "module": "NivatTrial.RealHalfPlaneRecurrence",
-      "path": "vendor/nivat-trial/NivatTrial/RealHalfPlaneRecurrence.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/RealHalfPlaneRecurrence.lean",
       "upstream_path": "NivatTrial/RealHalfPlaneRecurrence.lean",
       "sha256": "36908731fb967fd79c9bea8d2d9d00dc697066b61621d0bb7745bafddc806d02",
       "bytes": 4359
     },
     {
       "module": "NivatTrial.RealDirectionGeometry",
-      "path": "vendor/nivat-trial/NivatTrial/RealDirectionGeometry.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/RealDirectionGeometry.lean",
       "upstream_path": "NivatTrial/RealDirectionGeometry.lean",
       "sha256": "027eb642a48b2d94791e8cd2416891007f4d27ee8b94d26953096f5c4eda873d",
       "bytes": 1943
     },
     {
       "module": "NivatTrial.NonexpansiveGeometry",
-      "path": "vendor/nivat-trial/NivatTrial/NonexpansiveGeometry.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/NonexpansiveGeometry.lean",
       "upstream_path": "NivatTrial/NonexpansiveGeometry.lean",
       "sha256": "2a2327c29547434a05892bf43ff442902c2e3a4a7cc655d2c8dfc07dce544c00",
       "bytes": 4227
     },
     {
       "module": "NivatTrial.NonexpansiveExistence",
-      "path": "vendor/nivat-trial/NivatTrial/NonexpansiveExistence.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/NonexpansiveExistence.lean",
       "upstream_path": "NivatTrial/NonexpansiveExistence.lean",
       "sha256": "4195ca0329821b5274eca55fbb237db9db0ae51d4c9d98e6000b437c524de10b",
       "bytes": 7350
     },
     {
       "module": "NivatTrial.GeneratingWindows",
-      "path": "vendor/nivat-trial/NivatTrial/GeneratingWindows.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/GeneratingWindows.lean",
       "upstream_path": "NivatTrial/GeneratingWindows.lean",
       "sha256": "485ed0a79b545cdabe5375e679b2961c99891d754255129ba8b5841bda562818",
       "bytes": 4773
     },
     {
       "module": "NivatTrial.FiniteDetermination",
-      "path": "vendor/nivat-trial/NivatTrial/FiniteDetermination.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/FiniteDetermination.lean",
       "upstream_path": "NivatTrial/FiniteDetermination.lean",
       "sha256": "33449d1445b7f0ef3a3bbfd6858c7e43504d1dd9f20397d8b5e6ec3e9839b87a",
       "bytes": 3834
     },
     {
       "module": "NivatTrial.PeriodicBandCoding",
-      "path": "vendor/nivat-trial/NivatTrial/PeriodicBandCoding.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/PeriodicBandCoding.lean",
       "upstream_path": "NivatTrial/PeriodicBandCoding.lean",
       "sha256": "7e8f3836307e50c5d18e8ff3ee0c2903acc885b1214a252e71af966847d51486",
       "bytes": 5394
     },
     {
       "module": "NivatTrial.FiniteIncrementFibers",
-      "path": "vendor/nivat-trial/NivatTrial/FiniteIncrementFibers.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/FiniteIncrementFibers.lean",
       "upstream_path": "NivatTrial/FiniteIncrementFibers.lean",
       "sha256": "5a4436637790c95f0ab5971ff36f22350ee0be6cc93fef0e8a1e55d15869b5bc",
       "bytes": 4770
     },
     {
       "module": "NivatTrial.SeparatedFiberLimits",
-      "path": "vendor/nivat-trial/NivatTrial/SeparatedFiberLimits.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/SeparatedFiberLimits.lean",
       "upstream_path": "NivatTrial/SeparatedFiberLimits.lean",
       "sha256": "ca1f99b4d962f33756f6d4d8239b199a0ef08e1004e5de9ebe3ea500669424d5",
       "bytes": 3902
     },
     {
       "module": "NivatTrial.JointFiberLimits",
-      "path": "vendor/nivat-trial/NivatTrial/JointFiberLimits.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/JointFiberLimits.lean",
       "upstream_path": "NivatTrial/JointFiberLimits.lean",
       "sha256": "bb08d666a27c6d710dd1cc311d5f82688a4c93b7f7a09d407e27a33ed049eb31",
       "bytes": 2827
     },
     {
       "module": "NivatTrial.MaximalIncrementFibers",
-      "path": "vendor/nivat-trial/NivatTrial/MaximalIncrementFibers.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/MaximalIncrementFibers.lean",
       "upstream_path": "NivatTrial/MaximalIncrementFibers.lean",
       "sha256": "ecffb5caea38fbcd7b1d75280c238317331112c5f4e126f2ca07d9bbbbc3726b",
       "bytes": 2119
     },
     {
       "module": "NivatTrial.DirectionalElimination",
-      "path": "vendor/nivat-trial/NivatTrial/DirectionalElimination.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/DirectionalElimination.lean",
       "upstream_path": "NivatTrial/DirectionalElimination.lean",
       "sha256": "1b24018a19935392469906a0693ec28f7c4b6adafcc01f6d79e1f31510e95335",
       "bytes": 3853
     },
     {
       "module": "NivatTrial.KariMoutot",
-      "path": "vendor/nivat-trial/NivatTrial/KariMoutot.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/KariMoutot.lean",
       "upstream_path": "NivatTrial/KariMoutot.lean",
       "sha256": "862efe83d402cc60431aa3ae002477ef63ba0f190e520f8c22253535ecea6366",
       "bytes": 10101
     },
     {
       "module": "NivatTrial.PeriodicNonexpansive",
-      "path": "vendor/nivat-trial/NivatTrial/PeriodicNonexpansive.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/PeriodicNonexpansive.lean",
       "upstream_path": "NivatTrial/PeriodicNonexpansive.lean",
       "sha256": "216ff9c16a3c958eb95da79b3d1866e4849df40629bb7729ad0665aa189d0526",
       "bytes": 3980
     },
     {
       "module": "NivatTrial.PeriodicInterface",
-      "path": "vendor/nivat-trial/NivatTrial/PeriodicInterface.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/PeriodicInterface.lean",
       "upstream_path": "NivatTrial/PeriodicInterface.lean",
       "sha256": "2d23a4940237bb1501c1e12c016cb9a1c53f72e482300cf857304d66401dbb26",
       "bytes": 6247
     },
     {
       "module": "NivatTrial.ColleAmbiguity",
-      "path": "vendor/nivat-trial/NivatTrial/ColleAmbiguity.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleAmbiguity.lean",
       "upstream_path": "NivatTrial/ColleAmbiguity.lean",
       "sha256": "0d432add342d4093460405608ffdb2863fe05991ea4df0a73b2c4a80e8ee9704",
       "bytes": 6396
     },
     {
       "module": "NivatTrial.ColleGenerating",
-      "path": "vendor/nivat-trial/NivatTrial/ColleGenerating.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleGenerating.lean",
       "upstream_path": "NivatTrial/ColleGenerating.lean",
       "sha256": "34caaf245d9e68434b0423e23024ec1bec54ba21e61888da196d8c3d3c10a393",
       "bytes": 6345
     },
     {
       "module": "NivatTrial.ColleRegions",
-      "path": "vendor/nivat-trial/NivatTrial/ColleRegions.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleRegions.lean",
       "upstream_path": "NivatTrial/ColleRegions.lean",
       "sha256": "13d37ab5d0d30670720a3cf62ba59596b89683ce982ad050b45f009089e3c8d1",
       "bytes": 7438
     },
     {
       "module": "NivatTrial.ColleOppositeDirections",
-      "path": "vendor/nivat-trial/NivatTrial/ColleOppositeDirections.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleOppositeDirections.lean",
       "upstream_path": "NivatTrial/ColleOppositeDirections.lean",
       "sha256": "678b79da097e1d1346fe0831eaf2ec42466c7acc8016646e833c59beda768112",
       "bytes": 7356
     },
     {
       "module": "NivatTrial.ExternalInputs",
-      "path": "vendor/nivat-trial/NivatTrial/ExternalInputs.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ExternalInputs.lean",
       "upstream_path": "NivatTrial/ExternalInputs.lean",
       "sha256": "def3920bd1a8832432c8a2313cd61b68817e40a48138e5a230e005b5319577e5",
       "bytes": 4548
     },
     {
       "module": "NivatTrial.ModularReduction",
-      "path": "vendor/nivat-trial/NivatTrial/ModularReduction.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ModularReduction.lean",
       "upstream_path": "NivatTrial/ModularReduction.lean",
       "sha256": "5693fb8bafba7137373b81ba933d8c74a486cd75e187f2aac9e9d01ed64ac476",
       "bytes": 2554
     },
     {
       "module": "NivatTrial.ColleEnvelopeGeometry",
-      "path": "vendor/nivat-trial/NivatTrial/ColleEnvelopeGeometry.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleEnvelopeGeometry.lean",
       "upstream_path": "NivatTrial/ColleEnvelopeGeometry.lean",
       "sha256": "428b6bd6810d37dde222efe970cfd27dd20690fb2501aaf0e02313ee0278361e",
       "bytes": 6844
     },
     {
       "module": "NivatTrial.ColleMaximalEnvelope",
-      "path": "vendor/nivat-trial/NivatTrial/ColleMaximalEnvelope.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleMaximalEnvelope.lean",
       "upstream_path": "NivatTrial/ColleMaximalEnvelope.lean",
       "sha256": "3a04fce2a18077ea4283f0e30adaede3b681cd79fbabdac1e0721e9a33ce33f8",
       "bytes": 7249
     },
     {
       "module": "NivatTrial.ColleFiniteEnvelope",
-      "path": "vendor/nivat-trial/NivatTrial/ColleFiniteEnvelope.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleFiniteEnvelope.lean",
       "upstream_path": "NivatTrial/ColleFiniteEnvelope.lean",
       "sha256": "d9ce6f48f6dcc57f63e81872907d42e07a09fc36650820c6812c09b8b28c385e",
       "bytes": 4666
     },
     {
       "module": "NivatTrial.ColleLongFaces",
-      "path": "vendor/nivat-trial/NivatTrial/ColleLongFaces.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleLongFaces.lean",
       "upstream_path": "NivatTrial/ColleLongFaces.lean",
       "sha256": "e4f984f612e458424f9b98ae32dafb246dba154baaec7b85008cd954e86dc7e8",
       "bytes": 4904
     },
     {
       "module": "NivatTrial.ColleHalfStripEnvelope",
-      "path": "vendor/nivat-trial/NivatTrial/ColleHalfStripEnvelope.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleHalfStripEnvelope.lean",
       "upstream_path": "NivatTrial/ColleHalfStripEnvelope.lean",
       "sha256": "6c7e69ba009dac4c8efb78b347d40f2cc26f59022221599bc551ce976e911cae",
       "bytes": 10730
     },
     {
       "module": "NivatTrial.ColleZonotopeEnvelope",
-      "path": "vendor/nivat-trial/NivatTrial/ColleZonotopeEnvelope.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleZonotopeEnvelope.lean",
       "upstream_path": "NivatTrial/ColleZonotopeEnvelope.lean",
       "sha256": "7666ed584b2a2b18a539a2f598b49a68f0fcee22695d6f29d47306fd6e8dabac",
       "bytes": 24022
     },
     {
       "module": "NivatTrial.ColleZonotopePlacement",
-      "path": "vendor/nivat-trial/NivatTrial/ColleZonotopePlacement.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleZonotopePlacement.lean",
       "upstream_path": "NivatTrial/ColleZonotopePlacement.lean",
       "sha256": "f2d8333c7f5d040f81863883ab07dc170493c20d1565579df2eeafd426ebb66b",
       "bytes": 10491
     },
     {
       "module": "NivatTrial.ColleHalfPlanePeriod",
-      "path": "vendor/nivat-trial/NivatTrial/ColleHalfPlanePeriod.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleHalfPlanePeriod.lean",
       "upstream_path": "NivatTrial/ColleHalfPlanePeriod.lean",
       "sha256": "0d1ddc306d3523c97956a22f7fbc791a111c78c6790ed133972cced4d28276f5",
       "bytes": 5787
     },
     {
       "module": "NivatTrial.ColleStripRigidity",
-      "path": "vendor/nivat-trial/NivatTrial/ColleStripRigidity.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleStripRigidity.lean",
       "upstream_path": "NivatTrial/ColleStripRigidity.lean",
       "sha256": "1f0b12b7844486b177df4fb2d535be0ec9fd47cd24b8044b9630ba8217b4a03d",
       "bytes": 8588
     },
     {
       "module": "NivatTrial.ColleWedgeRecurrence",
-      "path": "vendor/nivat-trial/NivatTrial/ColleWedgeRecurrence.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleWedgeRecurrence.lean",
       "upstream_path": "NivatTrial/ColleWedgeRecurrence.lean",
       "sha256": "53c5965b4ce7124c4354001c1f14c43150fbf0592503a0f1ede7bcff279dafbf",
       "bytes": 4640
     },
     {
       "module": "NivatTrial.ColleWedgePeriod",
-      "path": "vendor/nivat-trial/NivatTrial/ColleWedgePeriod.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleWedgePeriod.lean",
       "upstream_path": "NivatTrial/ColleWedgePeriod.lean",
       "sha256": "2d01c069bea7929a5bf1bca23001530ef94395c9592565d8cc672b186ef55d59",
       "bytes": 6577
     },
     {
       "module": "NivatTrial.ColleAdjacentDirections",
-      "path": "vendor/nivat-trial/NivatTrial/ColleAdjacentDirections.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleAdjacentDirections.lean",
       "upstream_path": "NivatTrial/ColleAdjacentDirections.lean",
       "sha256": "748048e1dac7239b0cc3bc3529756c5c66573090a95d64dd6a6a2b2960ccfe6c",
       "bytes": 4054
     },
     {
       "module": "NivatTrial.ColleHalfStripBase",
-      "path": "vendor/nivat-trial/NivatTrial/ColleHalfStripBase.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleHalfStripBase.lean",
       "upstream_path": "NivatTrial/ColleHalfStripBase.lean",
       "sha256": "bc1728f43e824054255e97f55c09935bbd8882373decffb34298cd1dff8646ff",
       "bytes": 4340
     },
     {
       "module": "NivatTrial.ColleWindowWidth",
-      "path": "vendor/nivat-trial/NivatTrial/ColleWindowWidth.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleWindowWidth.lean",
       "upstream_path": "NivatTrial/ColleWindowWidth.lean",
       "sha256": "4de08ed6fa37ba9dc9e8862fc6b84be9ee863be546985fc42e3fb154ae8a07e2",
       "bytes": 4637
     },
     {
       "module": "NivatTrial.ColleEnvelopeTranslation",
-      "path": "vendor/nivat-trial/NivatTrial/ColleEnvelopeTranslation.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleEnvelopeTranslation.lean",
       "upstream_path": "NivatTrial/ColleEnvelopeTranslation.lean",
       "sha256": "ec43d377f5a27fcc539f4ce6c410cb8779028633a27001a72b78ae3af8258933",
       "bytes": 3289
     },
     {
       "module": "NivatTrial.ColleBoundaryRecenter",
-      "path": "vendor/nivat-trial/NivatTrial/ColleBoundaryRecenter.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleBoundaryRecenter.lean",
       "upstream_path": "NivatTrial/ColleBoundaryRecenter.lean",
       "sha256": "2c8c78394bea3caa3b26299ca06fd6dee726fa94d40cf81aecc634d2fa02ec1a",
       "bytes": 4217
     },
     {
       "module": "NivatTrial.CollePeriodicPhases",
-      "path": "vendor/nivat-trial/NivatTrial/CollePeriodicPhases.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/CollePeriodicPhases.lean",
       "upstream_path": "NivatTrial/CollePeriodicPhases.lean",
       "sha256": "0e6b1a5be1cca9d8a5658f8a90401e7f31b6f4294eb6949d49aa8696576bba37",
       "bytes": 3040
     },
     {
       "module": "NivatTrial.ColleRegionCompactness",
-      "path": "vendor/nivat-trial/NivatTrial/ColleRegionCompactness.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleRegionCompactness.lean",
       "upstream_path": "NivatTrial/ColleRegionCompactness.lean",
       "sha256": "d2ae402757e484366fd85d6d2391c7cbed4a2e20da024bad8d8dc0fd4963fe2b",
       "bytes": 3624
     },
     {
       "module": "NivatTrial.ColleEnvelopeLimits",
-      "path": "vendor/nivat-trial/NivatTrial/ColleEnvelopeLimits.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleEnvelopeLimits.lean",
       "upstream_path": "NivatTrial/ColleEnvelopeLimits.lean",
       "sha256": "a108e33024c9d1ced14ff4aa5e1bb3feb185b3187a0b4dbe95c3362dd54af50f",
       "bytes": 4740
     },
     {
       "module": "NivatTrial.ColleEnvelopeRecession",
-      "path": "vendor/nivat-trial/NivatTrial/ColleEnvelopeRecession.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleEnvelopeRecession.lean",
       "upstream_path": "NivatTrial/ColleEnvelopeRecession.lean",
       "sha256": "98d4a5a4d2db827d89904ea5ccd8dfa7c6f16c7b682250f883beecfd159cd00c",
       "bytes": 5282
     },
     {
       "module": "NivatTrial.ColleGrowingEnvelopes",
-      "path": "vendor/nivat-trial/NivatTrial/ColleGrowingEnvelopes.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleGrowingEnvelopes.lean",
       "upstream_path": "NivatTrial/ColleGrowingEnvelopes.lean",
       "sha256": "23166f6d4ffabded3e653b5f379abb628776c9d2c889dffd9051d79b61dc8d65",
       "bytes": 4907
     },
     {
       "module": "NivatTrial.ColleAgreementExhaustion",
-      "path": "vendor/nivat-trial/NivatTrial/ColleAgreementExhaustion.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleAgreementExhaustion.lean",
       "upstream_path": "NivatTrial/ColleAgreementExhaustion.lean",
       "sha256": "2c3b73125600d92a7f8998f0559c5e75d86b9da0eef440a37504aa3f4d937d41",
       "bytes": 2698
     },
     {
       "module": "NivatTrial.ColleRegionDichotomy",
-      "path": "vendor/nivat-trial/NivatTrial/ColleRegionDichotomy.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleRegionDichotomy.lean",
       "upstream_path": "NivatTrial/ColleRegionDichotomy.lean",
       "sha256": "74ea8f0b324d53762710a15e8620bc94011f71f48051f785501352e95f7a5754",
       "bytes": 2537
     },
     {
       "module": "NivatTrial.ColleCaseOne",
-      "path": "vendor/nivat-trial/NivatTrial/ColleCaseOne.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleCaseOne.lean",
       "upstream_path": "NivatTrial/ColleCaseOne.lean",
       "sha256": "48d80eb7d4854af0fb6015be4577de7344192de2c00310067090b2f267f8663e",
       "bytes": 5343
     },
     {
       "module": "NivatTrial.ColleEnvelopeRays",
-      "path": "vendor/nivat-trial/NivatTrial/ColleEnvelopeRays.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleEnvelopeRays.lean",
       "upstream_path": "NivatTrial/ColleEnvelopeRays.lean",
       "sha256": "a01a564e48e780919943beeb4ba8c62b40786c3afe055bd62ff9b10a6246b98b",
       "bytes": 6436
     },
     {
       "module": "NivatTrial.CollePeriodDirections",
-      "path": "vendor/nivat-trial/NivatTrial/CollePeriodDirections.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/CollePeriodDirections.lean",
       "upstream_path": "NivatTrial/CollePeriodDirections.lean",
       "sha256": "3b0756f33b538eeed66444c58ad93b735d535c0fe2b1060a3b964c1d537558e6",
       "bytes": 4029
     },
     {
       "module": "NivatTrial.HullIntegerDecomposition",
-      "path": "vendor/nivat-trial/NivatTrial/HullIntegerDecomposition.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/HullIntegerDecomposition.lean",
       "upstream_path": "NivatTrial/HullIntegerDecomposition.lean",
       "sha256": "cb90c5c3738e40b6536ac32191965371ae1ed0464593c9ab960c2b61fdfd69e5",
       "bytes": 2321
     },
     {
       "module": "NivatTrial.ColleOrbitCofactor",
-      "path": "vendor/nivat-trial/NivatTrial/ColleOrbitCofactor.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleOrbitCofactor.lean",
       "upstream_path": "NivatTrial/ColleOrbitCofactor.lean",
       "sha256": "f617835e3e762172a2d932d8d1cc6dba1658fce3f77978b7bdc1fe6978052af5",
       "bytes": 5074
     },
     {
       "module": "NivatTrial.ColleBoundaryLimits",
-      "path": "vendor/nivat-trial/NivatTrial/ColleBoundaryLimits.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleBoundaryLimits.lean",
       "upstream_path": "NivatTrial/ColleBoundaryLimits.lean",
       "sha256": "055f008146bdbdab87f6f26fbc42459a6a7895aebcb0eb4049b33e24a9f3528f",
       "bytes": 4536
     },
     {
       "module": "NivatTrial.ColleProperReferences",
-      "path": "vendor/nivat-trial/NivatTrial/ColleProperReferences.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleProperReferences.lean",
       "upstream_path": "NivatTrial/ColleProperReferences.lean",
       "sha256": "a0f441258a4a5cd4c8ca1e7d0f09d2048320576d882651e6de69b3e0f99a25ac",
       "bytes": 3149
     },
     {
       "module": "NivatTrial.ColleReferenceLimits",
-      "path": "vendor/nivat-trial/NivatTrial/ColleReferenceLimits.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleReferenceLimits.lean",
       "upstream_path": "NivatTrial/ColleReferenceLimits.lean",
       "sha256": "2881485b6886606b68fd0ae1b672a70405a30bfdb528b5d61ae82e96af881aa8",
       "bytes": 4324
     },
     {
       "module": "NivatTrial.ColleMinimality",
-      "path": "vendor/nivat-trial/NivatTrial/ColleMinimality.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleMinimality.lean",
       "upstream_path": "NivatTrial/ColleMinimality.lean",
       "sha256": "c412cd7119ebc82045500354c9a1452e9788de60acd8362830222dd1b7b3c964",
       "bytes": 7983
     },
     {
       "module": "NivatTrial.ColleWedgeReference",
-      "path": "vendor/nivat-trial/NivatTrial/ColleWedgeReference.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleWedgeReference.lean",
       "upstream_path": "NivatTrial/ColleWedgeReference.lean",
       "sha256": "afd6134a5a07176e97730b35cb5cf94b4489880004cd9ce058e0849df1f37ae4",
       "bytes": 5110
     },
     {
       "module": "NivatTrial.ColleEnvelopeExpansion",
-      "path": "vendor/nivat-trial/NivatTrial/ColleEnvelopeExpansion.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleEnvelopeExpansion.lean",
       "upstream_path": "NivatTrial/ColleEnvelopeExpansion.lean",
       "sha256": "56afa5b16d8e129cee6354854fa7491f6160ef90a6348dd2f3c485535476a0b0",
       "bytes": 3230
     },
     {
       "module": "NivatTrial.ColleCaseOneWedgeSeed",
-      "path": "vendor/nivat-trial/NivatTrial/ColleCaseOneWedgeSeed.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleCaseOneWedgeSeed.lean",
       "upstream_path": "NivatTrial/ColleCaseOneWedgeSeed.lean",
       "sha256": "0c5185128cdca182406c5ac213c2fab1f2f50f49209b62584a48e3b297b3aec7",
       "bytes": 6450
     },
     {
       "module": "NivatTrial.ColleErosionSupport",
-      "path": "vendor/nivat-trial/NivatTrial/ColleErosionSupport.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleErosionSupport.lean",
       "upstream_path": "NivatTrial/ColleErosionSupport.lean",
       "sha256": "bc1793f40f12cbc14350f901c7d1db89d90ec204e66ea53bc1d513c8f494e796",
       "bytes": 2915
     },
     {
       "module": "NivatTrial.ColleEnvelopeFiberCoding",
-      "path": "vendor/nivat-trial/NivatTrial/ColleEnvelopeFiberCoding.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleEnvelopeFiberCoding.lean",
       "upstream_path": "NivatTrial/ColleEnvelopeFiberCoding.lean",
       "sha256": "daa4d1bc2e9409758fe265d2334c0d35b324dbf63428cc51b465c4951c9c5488",
       "bytes": 4010
     },
     {
       "module": "NivatTrial.ColleHullCoding",
-      "path": "vendor/nivat-trial/NivatTrial/ColleHullCoding.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleHullCoding.lean",
       "upstream_path": "NivatTrial/ColleHullCoding.lean",
       "sha256": "1bf21ecc3abf662661338376b159373d500f9548f56cb56da4adfd4c1d1ce59a",
       "bytes": 13827
     },
     {
       "module": "NivatTrial.ColleStepExpansionGeometry",
-      "path": "vendor/nivat-trial/NivatTrial/ColleStepExpansionGeometry.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleStepExpansionGeometry.lean",
       "upstream_path": "NivatTrial/ColleStepExpansionGeometry.lean",
       "sha256": "401418e6ab0b7fb9a7cbc95da7158bb1afc6752eee98756b0e7b97d5e506a796",
       "bytes": 6009
     },
     {
       "module": "NivatTrial.ColleMaximalSeedDefect",
-      "path": "vendor/nivat-trial/NivatTrial/ColleMaximalSeedDefect.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleMaximalSeedDefect.lean",
       "upstream_path": "NivatTrial/ColleMaximalSeedDefect.lean",
       "sha256": "510cc49fc59bbdd53b28461524e35a7c60dddd80d26a6d6a58993d655e87d0c9",
       "bytes": 5321
     },
     {
       "module": "NivatTrial.ColleFiniteDefectLimits",
-      "path": "vendor/nivat-trial/NivatTrial/ColleFiniteDefectLimits.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleFiniteDefectLimits.lean",
       "upstream_path": "NivatTrial/ColleFiniteDefectLimits.lean",
       "sha256": "6229a321ca6f7b83e6cec51e233b606b1af26d1e6897ecd30ae9bce6c4a921ca",
       "bytes": 1879
     },
     {
       "module": "NivatTrial.ColleMaximalAgreementLimit",
-      "path": "vendor/nivat-trial/NivatTrial/ColleMaximalAgreementLimit.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleMaximalAgreementLimit.lean",
       "upstream_path": "NivatTrial/ColleMaximalAgreementLimit.lean",
       "sha256": "c8913e19638fb4f012b0c83dd55c19e80dc0917f5b9e35c058eb87116272cce4",
       "bytes": 9139
     },
     {
       "module": "NivatTrial.ColleDirectedAgreement",
-      "path": "vendor/nivat-trial/NivatTrial/ColleDirectedAgreement.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleDirectedAgreement.lean",
       "upstream_path": "NivatTrial/ColleDirectedAgreement.lean",
       "sha256": "fd8eb61b893982cec6588e76c66e31915177409d00a003d47d5d4f8e1f1de3cb",
       "bytes": 5878
     },
     {
       "module": "NivatTrial.ColleFixedAgreementRegion",
-      "path": "vendor/nivat-trial/NivatTrial/ColleFixedAgreementRegion.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleFixedAgreementRegion.lean",
       "upstream_path": "NivatTrial/ColleFixedAgreementRegion.lean",
       "sha256": "71f536e6722b4360c5ceed470d65a2f65e3bbf3246a300d7583225728d5320b2",
       "bytes": 4116
     },
     {
       "module": "NivatTrial.ColleCaseOneSeedRegion",
-      "path": "vendor/nivat-trial/NivatTrial/ColleCaseOneSeedRegion.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleCaseOneSeedRegion.lean",
       "upstream_path": "NivatTrial/ColleCaseOneSeedRegion.lean",
       "sha256": "1c6896a7ba3efe1a9d08c4e44fab2c31e4c948739bae81034fac38d8aff112c7",
       "bytes": 4527
     },
     {
       "module": "NivatTrial.ColleDecompositionTransforms",
-      "path": "vendor/nivat-trial/NivatTrial/ColleDecompositionTransforms.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleDecompositionTransforms.lean",
       "upstream_path": "NivatTrial/ColleDecompositionTransforms.lean",
       "sha256": "c3f4cf9658a3d1be19f53c0c457f38c0471dc4b114e7fe59481186b40029949c",
       "bytes": 2837
     },
     {
       "module": "NivatTrial.ColleRegionalBranches",
-      "path": "vendor/nivat-trial/NivatTrial/ColleRegionalBranches.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleRegionalBranches.lean",
       "upstream_path": "NivatTrial/ColleRegionalBranches.lean",
       "sha256": "b5b9be249a08d39435ab9eceabf405e65c04efa63d619b0c23f97e77ad0d64c0",
       "bytes": 3995
     },
     {
       "module": "NivatTrial.ColleDecompositionHull",
-      "path": "vendor/nivat-trial/NivatTrial/ColleDecompositionHull.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleDecompositionHull.lean",
       "upstream_path": "NivatTrial/ColleDecompositionHull.lean",
       "sha256": "366eef454f1f251fd46da48032b75b2074ac3fbe4bdb453dce9d4c75712d6b70",
       "bytes": 2725
     },
     {
       "module": "NivatTrial.ColleCaseOneFixedRegion",
-      "path": "vendor/nivat-trial/NivatTrial/ColleCaseOneFixedRegion.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleCaseOneFixedRegion.lean",
       "upstream_path": "NivatTrial/ColleCaseOneFixedRegion.lean",
       "sha256": "5cd1d8f3c7a91fcf0e5458ab0cd176d52a44690c022853c1982f407908cfcef6",
       "bytes": 4500
     },
     {
       "module": "NivatTrial.ColleFirstBoundaryMinimum",
-      "path": "vendor/nivat-trial/NivatTrial/ColleFirstBoundaryMinimum.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleFirstBoundaryMinimum.lean",
       "upstream_path": "NivatTrial/ColleFirstBoundaryMinimum.lean",
       "sha256": "0b6e32dc9a7877da82ec2931145abfdf52899662adaee41e032048c8e8d3e330",
       "bytes": 4169
     },
     {
       "module": "NivatTrial.ColleMaximalTranslation",
-      "path": "vendor/nivat-trial/NivatTrial/ColleMaximalTranslation.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleMaximalTranslation.lean",
       "upstream_path": "NivatTrial/ColleMaximalTranslation.lean",
       "sha256": "ac8407f47b8e26ae48b8c18df02ec9c085548f8b7d44fdf70fd1932c58b98f3a",
       "bytes": 2747
     },
     {
       "module": "NivatTrial.ColleFiniteMaximalTranslation",
-      "path": "vendor/nivat-trial/NivatTrial/ColleFiniteMaximalTranslation.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleFiniteMaximalTranslation.lean",
       "upstream_path": "NivatTrial/ColleFiniteMaximalTranslation.lean",
       "sha256": "8fc6e79bc2d4128034f2c5da08c2458dcc0757047c4e9621954ae94d6f379fd1",
       "bytes": 4084
     },
     {
       "module": "NivatTrial.ColleFirstBoundaryTranslation",
-      "path": "vendor/nivat-trial/NivatTrial/ColleFirstBoundaryTranslation.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleFirstBoundaryTranslation.lean",
       "upstream_path": "NivatTrial/ColleFirstBoundaryTranslation.lean",
       "sha256": "d14a91079c76a43c94a249a4aec6b65304e0e6073f092709844b9b982eea7459",
       "bytes": 2678
     },
     {
       "module": "NivatTrial.ColleCaseOneProperRegion",
-      "path": "vendor/nivat-trial/NivatTrial/ColleCaseOneProperRegion.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleCaseOneProperRegion.lean",
       "upstream_path": "NivatTrial/ColleCaseOneProperRegion.lean",
       "sha256": "29a8a6a19cff9028d73faf1821d9d6a020f792ced2ff253ac017c44da35a04f1",
       "bytes": 3347
     },
     {
       "module": "NivatTrial.ColleVertexGeometry",
-      "path": "vendor/nivat-trial/NivatTrial/ColleVertexGeometry.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleVertexGeometry.lean",
       "upstream_path": "NivatTrial/ColleVertexGeometry.lean",
       "sha256": "5bda51e41e2a07e20b74e75c6d36759f0b95652250fdc2364cd58f34f2a2b5b3",
       "bytes": 7579
     },
     {
       "module": "NivatTrial.ColleTailWords",
-      "path": "vendor/nivat-trial/NivatTrial/ColleTailWords.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleTailWords.lean",
       "upstream_path": "NivatTrial/ColleTailWords.lean",
       "sha256": "7c0b2f9c94918c88241adecb9679e22292c02657d0a6ed598af6ef4aaf8e785c",
       "bytes": 6046
     },
     {
       "module": "NivatTrial.ColleSemiAmbiguity",
-      "path": "vendor/nivat-trial/NivatTrial/ColleSemiAmbiguity.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleSemiAmbiguity.lean",
       "upstream_path": "NivatTrial/ColleSemiAmbiguity.lean",
       "sha256": "5d3a7f11cbe649b31eabf00a9eb751dc878f816f8a4af2513ed1800a3fda8bb3",
       "bytes": 3709
     },
     {
       "module": "NivatTrial.ColleHalfStrip",
-      "path": "vendor/nivat-trial/NivatTrial/ColleHalfStrip.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleHalfStrip.lean",
       "upstream_path": "NivatTrial/ColleHalfStrip.lean",
       "sha256": "8a32ff6bb48ab7fb3de7254f51fa65b354c1855456be5bb2427b6cb183f304ed",
       "bytes": 3461
     },
     {
       "module": "NivatTrial.ColleBalancedRows",
-      "path": "vendor/nivat-trial/NivatTrial/ColleBalancedRows.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleBalancedRows.lean",
       "upstream_path": "NivatTrial/ColleBalancedRows.lean",
       "sha256": "536a776855aad5592f1f3a392ddf800c86a98ed9a61d309fa0697d91dd05a723",
       "bytes": 7449
     },
     {
       "module": "NivatTrial.ColleInterfaceAmbiguity",
-      "path": "vendor/nivat-trial/NivatTrial/ColleInterfaceAmbiguity.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleInterfaceAmbiguity.lean",
       "upstream_path": "NivatTrial/ColleInterfaceAmbiguity.lean",
       "sha256": "4812911a118f7ae058182f5771dd28ab3bc6ed204862b179244dd4038a6ac550",
       "bytes": 4537
     },
     {
       "module": "NivatTrial.ColleBoundaryPropagation",
-      "path": "vendor/nivat-trial/NivatTrial/ColleBoundaryPropagation.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleBoundaryPropagation.lean",
       "upstream_path": "NivatTrial/ColleBoundaryPropagation.lean",
       "sha256": "b0b52f74eeac7a82dd819547cc5fc6987749f56daf30f0e2464b054b1af5dc4c",
       "bytes": 8830
     },
     {
       "module": "NivatTrial.ColleActualHalfStrip",
-      "path": "vendor/nivat-trial/NivatTrial/ColleActualHalfStrip.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleActualHalfStrip.lean",
       "upstream_path": "NivatTrial/ColleActualHalfStrip.lean",
       "sha256": "92fda69bf7e976c69c06b19fd2095d20aeb131db03e51b8bbff8bcfd76c4a7e7",
       "bytes": 1454
     },
     {
       "module": "NivatTrial.ColleGeneratingTransforms",
-      "path": "vendor/nivat-trial/NivatTrial/ColleGeneratingTransforms.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleGeneratingTransforms.lean",
       "upstream_path": "NivatTrial/ColleGeneratingTransforms.lean",
       "sha256": "ce76e292e9d52b693168a691f996e5f60b5e3c28865d9f4bf46f9577b90b5cba",
       "bytes": 7165
     },
     {
       "module": "NivatTrial.ColleDirectionalPropagation",
-      "path": "vendor/nivat-trial/NivatTrial/ColleDirectionalPropagation.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleDirectionalPropagation.lean",
       "upstream_path": "NivatTrial/ColleDirectionalPropagation.lean",
       "sha256": "314b091f9a8064dd3a8e6860a890a567b6a848e18b1448b3c5781cb7d74b4124",
       "bytes": 6616
     },
     {
       "module": "NivatTrial.ColleSlantedBlock",
-      "path": "vendor/nivat-trial/NivatTrial/ColleSlantedBlock.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleSlantedBlock.lean",
       "upstream_path": "NivatTrial/ColleSlantedBlock.lean",
       "sha256": "9683c439524addb08787a8cc0dc291ec01ad5ff6ff9ab004a2dc09f258538c1e",
       "bytes": 8065
     },
     {
       "module": "NivatTrial.ColleAmbiguousFullPatterns",
-      "path": "vendor/nivat-trial/NivatTrial/ColleAmbiguousFullPatterns.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleAmbiguousFullPatterns.lean",
       "upstream_path": "NivatTrial/ColleAmbiguousFullPatterns.lean",
       "sha256": "b30be777e871a9ad56c85aa1b8f9cb0919ae0680c2c3c097b0e1f22a88c90b34",
       "bytes": 3093
     },
     {
       "module": "NivatTrial.ColleLocalSubshift",
-      "path": "vendor/nivat-trial/NivatTrial/ColleLocalSubshift.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleLocalSubshift.lean",
       "upstream_path": "NivatTrial/ColleLocalSubshift.lean",
       "sha256": "2d5dc017db0dd5fe8ad806d025ad4caef9a01bedf8998d7e1a531e8d6f96957e",
       "bytes": 3578
     },
     {
       "module": "NivatTrial.ColleAmbiguousStrip",
-      "path": "vendor/nivat-trial/NivatTrial/ColleAmbiguousStrip.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleAmbiguousStrip.lean",
       "upstream_path": "NivatTrial/ColleAmbiguousStrip.lean",
       "sha256": "fa3f1b0df42d4a050faa75898e3f5b5dc96036f447c052e8153feab6e4bb88d7",
       "bytes": 5840
     },
     {
       "module": "NivatTrial.ColleStripInduction",
-      "path": "vendor/nivat-trial/NivatTrial/ColleStripInduction.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleStripInduction.lean",
       "upstream_path": "NivatTrial/ColleStripInduction.lean",
       "sha256": "8dac6d559103328f41131e32006b186e63f98783500639967694edfebdf7553c",
       "bytes": 3161
     },
     {
       "module": "NivatTrial.ColleAmbiguousRepeat",
-      "path": "vendor/nivat-trial/NivatTrial/ColleAmbiguousRepeat.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleAmbiguousRepeat.lean",
       "upstream_path": "NivatTrial/ColleAmbiguousRepeat.lean",
       "sha256": "15f9b31535ff8af96b3c1984e2de52198520a21623815556d38da0451dc67891",
       "bytes": 2794
     },
     {
       "module": "NivatTrial.ColleStripPeriod",
-      "path": "vendor/nivat-trial/NivatTrial/ColleStripPeriod.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleStripPeriod.lean",
       "upstream_path": "NivatTrial/ColleStripPeriod.lean",
       "sha256": "101a9bccc4d0c5612426d2cadcf7b4351e02ef149f41c75cc533f9dfd77dedcf",
       "bytes": 1863
     },
     {
       "module": "NivatTrial.ColleLocalBoundaryPropagation",
-      "path": "vendor/nivat-trial/NivatTrial/ColleLocalBoundaryPropagation.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleLocalBoundaryPropagation.lean",
       "upstream_path": "NivatTrial/ColleLocalBoundaryPropagation.lean",
       "sha256": "6334afbb594324c0b6d4b0108210c1fa24ee9d98f0ec9cf064d6301893e91a20",
       "bytes": 6586
     },
     {
       "module": "NivatTrial.ColleOneSidedBoundary",
-      "path": "vendor/nivat-trial/NivatTrial/ColleOneSidedBoundary.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleOneSidedBoundary.lean",
       "upstream_path": "NivatTrial/ColleOneSidedBoundary.lean",
       "sha256": "18308655bb37bc77e368b93645638035b2ac5320c32a999805b2c9cb1e8e5304",
       "bytes": 10031
     },
     {
       "module": "NivatTrial.ColleOneSidedAmbiguity",
-      "path": "vendor/nivat-trial/NivatTrial/ColleOneSidedAmbiguity.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleOneSidedAmbiguity.lean",
       "upstream_path": "NivatTrial/ColleOneSidedAmbiguity.lean",
       "sha256": "4599b20fccff0cfa54375d2b57b3205169d0081c33e914ba4b3c2ab90c37ef8b",
       "bytes": 6908
     },
     {
       "module": "NivatTrial.ColleReverseBalancedRows",
-      "path": "vendor/nivat-trial/NivatTrial/ColleReverseBalancedRows.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleReverseBalancedRows.lean",
       "upstream_path": "NivatTrial/ColleReverseBalancedRows.lean",
       "sha256": "f9ebc490749e708fc1b8faa2e61d920d6bb6b86e963f687967d1151787ecaa24",
       "bytes": 5364
     },
     {
       "module": "NivatTrial.ColleSecondBoundaryPeriod",
-      "path": "vendor/nivat-trial/NivatTrial/ColleSecondBoundaryPeriod.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleSecondBoundaryPeriod.lean",
       "upstream_path": "NivatTrial/ColleSecondBoundaryPeriod.lean",
       "sha256": "1b32a0b9f621970df53eeba5d7421466f77a609686d51497d9442fbf90bc1194",
       "bytes": 2139
     },
     {
       "module": "NivatTrial.ColleSecondBoundaryCoordinates",
-      "path": "vendor/nivat-trial/NivatTrial/ColleSecondBoundaryCoordinates.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleSecondBoundaryCoordinates.lean",
       "upstream_path": "NivatTrial/ColleSecondBoundaryCoordinates.lean",
       "sha256": "ac3fd8213416215c1a99f6f29cde5f8c824d97f59ae5cb5edc90e2993eaafadb",
       "bytes": 5783
     },
     {
       "module": "NivatTrial.ColleSemiAmbiguityTransport",
-      "path": "vendor/nivat-trial/NivatTrial/ColleSemiAmbiguityTransport.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleSemiAmbiguityTransport.lean",
       "upstream_path": "NivatTrial/ColleSemiAmbiguityTransport.lean",
       "sha256": "b322d4c4f478a71c59f53f51103ec646f834aa8ced029044e9f364a0c4d8c575",
       "bytes": 4608
     },
     {
       "module": "NivatTrial.ColleSecondBoundaryDefects",
-      "path": "vendor/nivat-trial/NivatTrial/ColleSecondBoundaryDefects.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleSecondBoundaryDefects.lean",
       "upstream_path": "NivatTrial/ColleSecondBoundaryDefects.lean",
       "sha256": "62c3dce5e32aeae933e1614ac78ee329501156002c25d3274a2188735639a001",
       "bytes": 7402
     },
     {
       "module": "NivatTrial.ColleHighestBoundaryRow",
-      "path": "vendor/nivat-trial/NivatTrial/ColleHighestBoundaryRow.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleHighestBoundaryRow.lean",
       "upstream_path": "NivatTrial/ColleHighestBoundaryRow.lean",
       "sha256": "e82398cd7a95c3b4fd120d1d8f4262cf9afc6f6591ba4034ae8b3134c56bb14c",
       "bytes": 4140
     },
     {
       "module": "NivatTrial.ColleBoundaryStripGeometry",
-      "path": "vendor/nivat-trial/NivatTrial/ColleBoundaryStripGeometry.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleBoundaryStripGeometry.lean",
       "upstream_path": "NivatTrial/ColleBoundaryStripGeometry.lean",
       "sha256": "32ec0f7520b649e824a69e6c8b821f4005f013f0c38a4e09bdd303d0c74cb597",
       "bytes": 3766
     },
     {
       "module": "NivatTrial.ColleLeftwardCoordinates",
-      "path": "vendor/nivat-trial/NivatTrial/ColleLeftwardCoordinates.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleLeftwardCoordinates.lean",
       "upstream_path": "NivatTrial/ColleLeftwardCoordinates.lean",
       "sha256": "ed25f6dcc96f4600de3576070d8ca02a1f56f4ee4d4b8162e49bf36397148691",
       "bytes": 2128
     },
     {
       "module": "NivatTrial.ColleSecondBoundaryStrip",
-      "path": "vendor/nivat-trial/NivatTrial/ColleSecondBoundaryStrip.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleSecondBoundaryStrip.lean",
       "upstream_path": "NivatTrial/ColleSecondBoundaryStrip.lean",
       "sha256": "7fa3deb5944d851264c055156d2657d9109cb56de93633c57c85085dd650ab24",
       "bytes": 5846
     },
     {
       "module": "NivatTrial.ColleActualSecondAmbiguity",
-      "path": "vendor/nivat-trial/NivatTrial/ColleActualSecondAmbiguity.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleActualSecondAmbiguity.lean",
       "upstream_path": "NivatTrial/ColleActualSecondAmbiguity.lean",
       "sha256": "49bc2b66e9b79a98f399c103e91200d5953d22496c4730862d598f463e310af6",
       "bytes": 4322
     },
     {
       "module": "NivatTrial.ColleParallelogramRows",
-      "path": "vendor/nivat-trial/NivatTrial/ColleParallelogramRows.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleParallelogramRows.lean",
       "upstream_path": "NivatTrial/ColleParallelogramRows.lean",
       "sha256": "3639f864b8dbc405f7f3d32fafa1719ac3324bcdae2383559af9d5087eddb3b3",
       "bytes": 2757
     },
     {
       "module": "NivatTrial.ColleParallelogramGeometry",
-      "path": "vendor/nivat-trial/NivatTrial/ColleParallelogramGeometry.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleParallelogramGeometry.lean",
       "upstream_path": "NivatTrial/ColleParallelogramGeometry.lean",
       "sha256": "a897d9f4821d3fc8f6fffadd86fed293870f5cb2adc1cc611c0654bba7ffa7dc",
       "bytes": 9561
     },
     {
       "module": "NivatTrial.ColleParallelogramWindow",
-      "path": "vendor/nivat-trial/NivatTrial/ColleParallelogramWindow.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleParallelogramWindow.lean",
       "upstream_path": "NivatTrial/ColleParallelogramWindow.lean",
       "sha256": "3a0e36179999ad921d7d6bf2aa7c64f224798c70abc62ab5ed19823ea71c6892",
       "bytes": 5287
     },
     {
       "module": "NivatTrial.ColleSeedBlockPropagation",
-      "path": "vendor/nivat-trial/NivatTrial/ColleSeedBlockPropagation.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleSeedBlockPropagation.lean",
       "upstream_path": "NivatTrial/ColleSeedBlockPropagation.lean",
       "sha256": "64d6da5f0af9d32435d8f9310e3bf10c8297745f080c0011e8fc358ea7648c2f",
       "bytes": 3472
     },
     {
       "module": "NivatTrial.CollePeriodicRowPropagation",
-      "path": "vendor/nivat-trial/NivatTrial/CollePeriodicRowPropagation.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/CollePeriodicRowPropagation.lean",
       "upstream_path": "NivatTrial/CollePeriodicRowPropagation.lean",
       "sha256": "b70ae911d94367f1d973abd6b4bd992d08ff35f56bed519850048ea9d3711078",
       "bytes": 2831
     },
     {
       "module": "NivatTrial.ColleReferencePhaseRepeat",
-      "path": "vendor/nivat-trial/NivatTrial/ColleReferencePhaseRepeat.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleReferencePhaseRepeat.lean",
       "upstream_path": "NivatTrial/ColleReferencePhaseRepeat.lean",
       "sha256": "2e824235e13207867a3b6b2b13cdf625222bebd17bc2d62d31e3ce6da59937d9",
       "bytes": 5354
     },
     {
       "module": "NivatTrial.ColleReferencePropagation",
-      "path": "vendor/nivat-trial/NivatTrial/ColleReferencePropagation.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleReferencePropagation.lean",
       "upstream_path": "NivatTrial/ColleReferencePropagation.lean",
       "sha256": "1470322e5ca2869aaa41154738cd1f64bf07bbe4cb5c5daa4ec0e8cd4e29fdaa",
       "bytes": 2672
     },
     {
       "module": "NivatTrial.ColleParallelogramSeeds",
-      "path": "vendor/nivat-trial/NivatTrial/ColleParallelogramSeeds.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleParallelogramSeeds.lean",
       "upstream_path": "NivatTrial/ColleParallelogramSeeds.lean",
       "sha256": "0c852ec0493a3dde3e1dd08094b4d4172560728e82b4e9f32eac598fc0af7ef3",
       "bytes": 6053
     },
     {
       "module": "NivatTrial.ColleTopReferencePropagation",
-      "path": "vendor/nivat-trial/NivatTrial/ColleTopReferencePropagation.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleTopReferencePropagation.lean",
       "upstream_path": "NivatTrial/ColleTopReferencePropagation.lean",
       "sha256": "9f54d3ba9656eba9141d761bf18037b396b88ab99f307fc795c430ee64fd41d0",
       "bytes": 9693
     },
     {
       "module": "NivatTrial.ColleSecondBoundaryReference",
-      "path": "vendor/nivat-trial/NivatTrial/ColleSecondBoundaryReference.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleSecondBoundaryReference.lean",
       "upstream_path": "NivatTrial/ColleSecondBoundaryReference.lean",
       "sha256": "02829d098ed24cf914b8d5b38e2398c41479dbb746275b22f35aab02002d236e",
       "bytes": 3442
     },
     {
       "module": "NivatTrial.ColleRationalDirections",
-      "path": "vendor/nivat-trial/NivatTrial/ColleRationalDirections.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleRationalDirections.lean",
       "upstream_path": "NivatTrial/ColleRationalDirections.lean",
       "sha256": "8610e9df65d1ed3a0f2dcc74d068ef98260212318cb5ac0dfe7890e6f55ed63e",
       "bytes": 9974
     },
     {
       "module": "NivatTrial.ColleCoordinateTransport",
-      "path": "vendor/nivat-trial/NivatTrial/ColleCoordinateTransport.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleCoordinateTransport.lean",
       "upstream_path": "NivatTrial/ColleCoordinateTransport.lean",
       "sha256": "7a06abc2777ea2bea59c48d7016a9963e28aafcf66a0bbb967f9330b7d482fdf",
       "bytes": 5319
     },
     {
       "module": "NivatTrial.CollePositiveCoordinates",
-      "path": "vendor/nivat-trial/NivatTrial/CollePositiveCoordinates.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/CollePositiveCoordinates.lean",
       "upstream_path": "NivatTrial/CollePositiveCoordinates.lean",
       "sha256": "9bd7b0fcf483de5e5a03c6c600b4009614a8b74213d0cc38e38824bdb721f03c",
       "bytes": 1752
     },
     {
       "module": "NivatTrial.ColleGeneralBoundaryReference",
-      "path": "vendor/nivat-trial/NivatTrial/ColleGeneralBoundaryReference.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleGeneralBoundaryReference.lean",
       "upstream_path": "NivatTrial/ColleGeneralBoundaryReference.lean",
       "sha256": "4c06bc4cb8a5babecf69c7aeadfae0d7b5bdc7ba4d6b56d33e2a5e3b918f4129",
       "bytes": 3898
     },
     {
       "module": "NivatTrial.ColleDefectiveGrowingEnvelopes",
-      "path": "vendor/nivat-trial/NivatTrial/ColleDefectiveGrowingEnvelopes.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleDefectiveGrowingEnvelopes.lean",
       "upstream_path": "NivatTrial/ColleDefectiveGrowingEnvelopes.lean",
       "sha256": "d7bd38ed3f863c9bd415fb82de27af748fcb57d194ae14b407930eac15e1375d",
       "bytes": 8492
     },
     {
       "module": "NivatTrial.ColleCaseTwoWindows",
-      "path": "vendor/nivat-trial/NivatTrial/ColleCaseTwoWindows.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleCaseTwoWindows.lean",
       "upstream_path": "NivatTrial/ColleCaseTwoWindows.lean",
       "sha256": "60610863685df2177a86e3d249654654521beb007086a5fd53c543dd0948c2b7",
       "bytes": 5005
     },
     {
       "module": "NivatTrial.ColleLimitRigidity",
-      "path": "vendor/nivat-trial/NivatTrial/ColleLimitRigidity.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleLimitRigidity.lean",
       "upstream_path": "NivatTrial/ColleLimitRigidity.lean",
       "sha256": "683aad89f5d4e7d4a108bce2849f28a368b5f7299640a13ceafd133e058c342c",
       "bytes": 2348
     },
     {
       "module": "NivatTrial.ColleReferenceRigidity",
-      "path": "vendor/nivat-trial/NivatTrial/ColleReferenceRigidity.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleReferenceRigidity.lean",
       "upstream_path": "NivatTrial/ColleReferenceRigidity.lean",
       "sha256": "9f83fcaaf0f38d69e8d9dc83d59ae1b936f84d548084b6496f01cc1d0ce7a991",
       "bytes": 4557
     },
     {
       "module": "NivatTrial.ColleCaseTwoAperiodic",
-      "path": "vendor/nivat-trial/NivatTrial/ColleCaseTwoAperiodic.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleCaseTwoAperiodic.lean",
       "upstream_path": "NivatTrial/ColleCaseTwoAperiodic.lean",
       "sha256": "1a461499bc1c73d9dd753ae6720f5b4646a8596c080e20326b44f2ae71800bd8",
       "bytes": 4747
     },
     {
       "module": "NivatTrial.ColleReferenceRegion",
-      "path": "vendor/nivat-trial/NivatTrial/ColleReferenceRegion.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleReferenceRegion.lean",
       "upstream_path": "NivatTrial/ColleReferenceRegion.lean",
       "sha256": "ce5bf8b558016b045c2bb8e5763482380f34ca50550a9c0583b9ba2a996ec11c",
       "bytes": 2959
     },
     {
       "module": "NivatTrial.ColleCaseTwoConclusion",
-      "path": "vendor/nivat-trial/NivatTrial/ColleCaseTwoConclusion.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleCaseTwoConclusion.lean",
       "upstream_path": "NivatTrial/ColleCaseTwoConclusion.lean",
       "sha256": "78e8398c253a22866ead67b36af34a24ca6cf20817792e9b78895e1c9f4f1915",
       "bytes": 4521
     },
     {
       "module": "NivatTrial.ColleCaseOneReflectionTransport",
-      "path": "vendor/nivat-trial/NivatTrial/ColleCaseOneReflectionTransport.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleCaseOneReflectionTransport.lean",
       "upstream_path": "NivatTrial/ColleCaseOneReflectionTransport.lean",
       "sha256": "b4fb79afe5a98f844a3dd0e5b17aab42b336ed9d40ef0f7517ac718f33658f69",
       "bytes": 15902
     },
     {
       "module": "NivatTrial.ColleCaseOneConclusion",
-      "path": "vendor/nivat-trial/NivatTrial/ColleCaseOneConclusion.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleCaseOneConclusion.lean",
       "upstream_path": "NivatTrial/ColleCaseOneConclusion.lean",
       "sha256": "a346ada72b63f75dc02d48abfcdcc2d6b91638dc35e4c47b341a36aa0aee9f45",
       "bytes": 3553
     },
     {
       "module": "NivatTrial.ColleCaseOneNormalizedReference",
-      "path": "vendor/nivat-trial/NivatTrial/ColleCaseOneNormalizedReference.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleCaseOneNormalizedReference.lean",
       "upstream_path": "NivatTrial/ColleCaseOneNormalizedReference.lean",
       "sha256": "aff063d5df2358342dd2f30760020848dd7a322bc4fc4d9a793c3c7faa420434",
       "bytes": 3492
     },
     {
       "module": "NivatTrial.ColleNonuniqueStrip",
-      "path": "vendor/nivat-trial/NivatTrial/ColleNonuniqueStrip.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleNonuniqueStrip.lean",
       "upstream_path": "NivatTrial/ColleNonuniqueStrip.lean",
       "sha256": "20c5c2000e8286945642bbfbd7a4c8f70677b7adcb59ede78467961d5e5f755f",
       "bytes": 6633
     },
     {
       "module": "NivatTrial.ColleHorizontalSplice",
-      "path": "vendor/nivat-trial/NivatTrial/ColleHorizontalSplice.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleHorizontalSplice.lean",
       "upstream_path": "NivatTrial/ColleHorizontalSplice.lean",
       "sha256": "53846ab0e2d9107a5adb48f48152d6c485e0d05e73f4436a6909348163b8a002",
       "bytes": 2107
     },
     {
       "module": "NivatTrial.ColleMorseBound",
-      "path": "vendor/nivat-trial/NivatTrial/ColleMorseBound.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleMorseBound.lean",
       "upstream_path": "NivatTrial/ColleMorseBound.lean",
       "sha256": "5320deb6ee93aec9227eaaac72f8f3ee52776efc1d226c17757fd6d619287ee8",
       "bytes": 2994
     },
     {
       "module": "NivatTrial.ColleAmbiguousBandBound",
-      "path": "vendor/nivat-trial/NivatTrial/ColleAmbiguousBandBound.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleAmbiguousBandBound.lean",
       "upstream_path": "NivatTrial/ColleAmbiguousBandBound.lean",
       "sha256": "682737eda7c51c18d5abbb31a56f20f1688dc0e5601b71eae7cad2482f4b650e",
       "bytes": 5657
     },
     {
       "module": "NivatTrial.ColleStripDichotomy",
-      "path": "vendor/nivat-trial/NivatTrial/ColleStripDichotomy.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleStripDichotomy.lean",
       "upstream_path": "NivatTrial/ColleStripDichotomy.lean",
       "sha256": "440ec2bc19cf2d3e795f0fcf6d91a510896b25433fb5d9a0e88f126c54cfde54",
       "bytes": 5172
     },
     {
       "module": "NivatTrial.ColleHalfPlaneAmbiguity",
-      "path": "vendor/nivat-trial/NivatTrial/ColleHalfPlaneAmbiguity.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleHalfPlaneAmbiguity.lean",
       "upstream_path": "NivatTrial/ColleHalfPlaneAmbiguity.lean",
       "sha256": "d18b22b917aff9a0e9acd48bf052ef0fe4773f25f42b12b4730521f584393406",
       "bytes": 4261
     },
     {
       "module": "NivatTrial.ColleWitnessHalfPlane",
-      "path": "vendor/nivat-trial/NivatTrial/ColleWitnessHalfPlane.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleWitnessHalfPlane.lean",
       "upstream_path": "NivatTrial/ColleWitnessHalfPlane.lean",
       "sha256": "9dfe1111fd32205c0f87867b12b83c0f43c6da969fd0130eb0d3c77fb7434cd3",
       "bytes": 6286
     },
     {
       "module": "NivatTrial.CollePeriodicReferencePair",
-      "path": "vendor/nivat-trial/NivatTrial/CollePeriodicReferencePair.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/CollePeriodicReferencePair.lean",
       "upstream_path": "NivatTrial/CollePeriodicReferencePair.lean",
       "sha256": "d9aa9ae62ff4c64010a74a234966c84c34e88f14763a007a77ef8e239a776a9e",
       "bytes": 7320
     },
     {
       "module": "NivatTrial.ColleReferenceSelection",
-      "path": "vendor/nivat-trial/NivatTrial/ColleReferenceSelection.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleReferenceSelection.lean",
       "upstream_path": "NivatTrial/ColleReferenceSelection.lean",
       "sha256": "91702f4f1af0692def1471ea2fa272416f5f258fca2a7f404aa3d78141e4ee98",
       "bytes": 2897
     },
     {
       "module": "NivatTrial.ColleIntegerOpposite",
-      "path": "vendor/nivat-trial/NivatTrial/ColleIntegerOpposite.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleIntegerOpposite.lean",
       "upstream_path": "NivatTrial/ColleIntegerOpposite.lean",
       "sha256": "d68c16438b84facd0aaad276346e39d7609073af129f2575ea62e7f23009ccf3",
       "bytes": 1807
     },
     {
       "module": "NivatTrial.ColleProperPeriodicReference",
-      "path": "vendor/nivat-trial/NivatTrial/ColleProperPeriodicReference.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleProperPeriodicReference.lean",
       "upstream_path": "NivatTrial/ColleProperPeriodicReference.lean",
       "sha256": "5c47010af6a8807f730a04b0ecd176035b2a466e83764509fc83414031a41d83",
       "bytes": 9049
     },
     {
       "module": "NivatTrial.ColleRegionalEntry",
-      "path": "vendor/nivat-trial/NivatTrial/ColleRegionalEntry.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleRegionalEntry.lean",
       "upstream_path": "NivatTrial/ColleRegionalEntry.lean",
       "sha256": "d0740585a5410055c1a2d69d852efca7a129c2ed7e08b1d1184cbb03170bb2f2",
       "bytes": 8321
     },
     {
       "module": "NivatTrial.IntegerDecompositionOrder",
-      "path": "vendor/nivat-trial/NivatTrial/IntegerDecompositionOrder.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/IntegerDecompositionOrder.lean",
       "upstream_path": "NivatTrial/IntegerDecompositionOrder.lean",
       "sha256": "bdca1c17df52b127105d2f00d29b82fa561a2cbc25e32ebdd5fc6a07868a077e",
       "bytes": 2055
     },
     {
       "module": "NivatTrial.ColleRegionalConclusion",
-      "path": "vendor/nivat-trial/NivatTrial/ColleRegionalConclusion.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/ColleRegionalConclusion.lean",
       "upstream_path": "NivatTrial/ColleRegionalConclusion.lean",
       "sha256": "bf023c70c406a91f3e474a1377c6bf0b07995343b636b590550683955f3b671a",
       "bytes": 3656
     },
     {
       "module": "NivatTrial.TheoremB",
-      "path": "vendor/nivat-trial/NivatTrial/TheoremB.lean",
+      "path": "convex-nivat/vendor/nivat-trial/NivatTrial/TheoremB.lean",
       "upstream_path": "NivatTrial/TheoremB.lean",
       "sha256": "13af4657b989f1606734de97b89ae09d30f5ab5d86d8a58c8ea6fd87cf802b20",
       "bytes": 2356

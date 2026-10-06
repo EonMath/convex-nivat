@@ -67,7 +67,7 @@ source context. It does not turn the printed C.3 witness into a valid one.
 `ConvexNivat.Appendix.C3Arithmetic` diagnostic module. This auxiliary module
 is outside the reduced release's main mathematical closure. The different
 existential witness is retained in
-[FullARemark.lean](Star/ConvexNivat/SourceGaps/FullARemark.lean).
+[FullARemark.lean](convex-nivat/Star/ConvexNivat/SourceGaps/FullARemark.lean).
 The accepted explicit C.3 representative fixes strip placements omitted by
 the source; it does not identify the missing original script run.
 
