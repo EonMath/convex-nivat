@@ -1,3 +1,5 @@
+> **Repository location update:** The maintained copy is now at [https://github.com/rational-intelligence/convex-nivat](https://github.com/rational-intelligence/convex-nivat). This original `EonMath/convex-nivat` repository is preserved.
+
 # Convex Nivat formalization
 
 A Lean 4 formalization of *The Convex Nivat Conjecture: A Complexity Lower Bound
